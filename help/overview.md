@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 12%
@@ -28,17 +28,14 @@ Bienvenue sur le site des Tutorials d&#39;Audiences Manager.  L&#39;utilisation 
 
 * **[Présentation de [!UICONTROL Profile Merge Rules] (vidéo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   <br>
    *Comprendre ce [!UICONTROL Profile Merge Rules] sont, comment ils fonctionnent et leur valeur pour le Marketer.*
 
 * **[[!UICONTROL Profile Merge Rule]Exemples et cas d’utilisation](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   <br>
    *Dans cette vidéo vous verrez des exemples de [!UICONTROL Profile Merge Rules] ce qu&#39;ils veulent dire, ainsi que les cas d&#39;utilisation pour lesquels [!UICONTROL Profile Merge Rules] résoudre.*
 
 * **[Créer et configurer[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   <br>
    *Découvrez comment configurer un [!DNL People-Based Destination] dans l’interface utilisateur de l’Audience Manager*
 
 ## Sélection du personnel
