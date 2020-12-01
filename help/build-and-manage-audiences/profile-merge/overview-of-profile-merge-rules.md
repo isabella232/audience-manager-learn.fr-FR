@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Présentation de [!UICONTROL Profile Merge Rules]
 
-Comprendre ce [!UICONTROL Profile Merge Rules] sont, comment ils fonctionnent et leur valeur pour le Marketer.
+Comprendre ce que [!UICONTROL Profile Merge Rules] sont, comment ils fonctionnent et leur valeur pour le Marketer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
