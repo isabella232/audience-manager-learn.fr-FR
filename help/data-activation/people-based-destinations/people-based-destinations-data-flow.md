@@ -19,6 +19,6 @@ ht-degree: 5%
 
 # [!UICONTROL People-Based Destinations] Flux de données
 
-Cette vidéo présente un aperçu [!UICONTROL People-Based Destinations] et montre le flux de données au cours du processus.
+Cette vidéo présente un aperçu de [!UICONTROL People-Based Destinations] et montre le flux de données au cours du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
