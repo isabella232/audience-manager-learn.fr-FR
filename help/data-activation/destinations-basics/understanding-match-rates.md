@@ -23,4 +23,4 @@ Cette vidéo vous aide à comprendre les taux de correspondance à Adobe Audienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
