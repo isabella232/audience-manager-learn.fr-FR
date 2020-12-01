@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] - Vidéos et Tutorials
 
-Vous [!UICONTROL Profile Merge Rules] contrôlez les jeux de données utilisés pour [!UICONTROL segmentation] et pouvez cible une personne avec précision sur plusieurs périphériques.
+[!UICONTROL Profile Merge Rules] permet de contrôler les jeux de données utilisés pour [!UICONTROL segmentation] et de cible précise d&#39;une personne sur plusieurs périphériques.
 
-Cette section contient les vidéos suivantes pour [!UICONTROL Profile Merge Rules]:
+Cette section contient les vidéos suivantes pour [!UICONTROL Profile Merge Rules] :
 
 * [Présentation des règles de fusion de Profils](overview-of-profile-merge-rules.md)
 * [Exemples de règles de fusion de profils et cas d’utilisation](profile-merge-rule-examples-and-use-cases.md)
