@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Conseils à la clientèle - Bonnes pratiques relatives aux caractéristiques et aux segments
 
-**Matt Vittorioso**, spécialiste principal en marketing chez **[!DNL Ally Financial]**, donne des conseils sur la gestion des caractéristiques et des segments.
+**Matt Vittorioso**, spécialiste principal en marketing chez  **[!DNL Ally Financial]**, donne des conseils sur la gestion des caractéristiques et des segments.
 
 Matt Vittorioso est spécialiste principal du marketing au sein de l’équipe Digital Marketing chez Ally Financial. Il dirige l&#39;équipe de segmentation numérique et est responsable de toutes les données entrées et sorties du gestionnaire d&#39;audiences. Matt travaille en étroite collaboration avec tous les intervenants internes et les partenaires d’agences externes pour s’assurer que les segments appropriés sont construits pour toutes les campagnes d’Ally. Les conseils incluent des sujets tels que :
 
