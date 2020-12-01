@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Création et utilisation simples [!UICONTROL Profile Merge Rules]
+# Création et utilisation d&#39;une méthode simple [!UICONTROL Profile Merge Rules]
 
 Découvrez les règles de fusion de profil et comment les affecter aux segments. Découvrez le profil &quot;Périphérique actuel&quot; par défaut et quand il peut ou doit être utilisé.
 
