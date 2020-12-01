@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Présentation de l&#39;interface de taux de correspondance dans l&#39;Audience Manager
 
-Cette vidéo vous guide tout au long de l’ [!UICONTROL destination] interface, vous montre et vous explique les nombres associés aux taux de correspondance et [!DNL addressable audiences]aux taux de correspondance.
+Cette vidéo vous guide tout au long de l&#39;interface [!UICONTROL destination], vous montre et explique les nombres associés aux taux de correspondance et [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
