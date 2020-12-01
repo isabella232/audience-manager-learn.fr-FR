@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # Comment identifier votre sous-domaine d&#39;Audience Manager {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Lors de la mise en oeuvre de certaines fonctionnalités Experience Cloud, vous devez connaître votre Audience Manager `Subdomain` (parfois appelée votre `client ID` ou `Partner ID`). Dans cette vidéo, nous allons vous montrer deux endroits où vous pouvez obtenir ces informations dans l&#39;interface utilisateur de l&#39;Audience Manager.
+Lors de l’implémentation de certaines fonctionnalités Experience Cloud, vous devez connaître l’Audience Manager `Subdomain` (parfois appelée `client ID` ou `Partner ID`). Dans cette vidéo, nous allons vous montrer deux endroits où vous pouvez obtenir ces informations dans l&#39;interface utilisateur de l&#39;Audience Manager.
 
 ## Donner la fin... {#giving-away-the-ending}
 
-Au cas où vous préféreriez simplement sauter et le trouver sans regarder cette courte vidéo, vous pouvez trouver votre `Partner Subdomain` place à deux endroits dans l&#39;interface utilisateur :
+Au cas où vous préféreriez simplement sauter et le trouver sans regarder cette courte vidéo, vous pouvez trouver votre `Partner Subdomain` à deux endroits dans l&#39;interface utilisateur :
 
-1. Si vous avez déjà créé une [!UICONTROL rule-based][!UICONTROL trait], cliquez sur **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] est située en regard de la [!UICONTROL trait] liste de [!UICONTROL traits] ce dossier et l’URL inclut votre sous-domaine dans l’URL.
+1. Si vous avez déjà créé un [!UICONTROL rule-based] [!UICONTROL trait], cliquez sur **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] se trouve en regard de l’URL  [!UICONTROL trait] dans la liste de  [!UICONTROL traits] ce dossier et l’URL inclut votre sous-domaine dans l’URL.
 1. Si vous accédez à l’interface **[!UICONTROL Tools]** > **[!UICONTROL Tags]** et cliquez sur **[!UICONTROL Get code]** pour votre conteneur, le sous-domaine se trouve à la fin de la ligne Akamai.
 
 Si vous ne parvenez pas à le trouver rapidement avec ces références rapides, la vidéo est un engagement de courte durée. :)
