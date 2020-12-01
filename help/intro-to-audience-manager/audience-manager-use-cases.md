@@ -24,4 +24,4 @@ Dans cette vidéo, nous identifions quatre cas courants d&#39;utilisation des Au
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html).
