@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation [!UICONTROL Profile Merge Rules] de la personnalisation dans un état authentifié
+# Utilisation de [!UICONTROL Profile Merge Rules] pour la personnalisation dans un état authentifié
 
 Donnez à vos clients connectés une expérience personnalisée en utilisant ces paramètres de règle de fusion de Profil.
 
