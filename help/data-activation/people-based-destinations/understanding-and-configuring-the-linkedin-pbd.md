@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Présentation et configuration de la variable [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# Présentation et configuration de [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-Cette vidéo vous guide tout au long des concepts et étapes de création d&#39;un [!UICONTROL People-Based Destination] à [!DNL LinkedIn]. Il s&#39;appuie sur les vidéos et la documentation supplémentaires concernant [!UICONTROL People-Based Destinations].
+Cette vidéo vous guide tout au long des concepts et étapes de création d&#39;une [!UICONTROL People-Based Destination] à [!DNL LinkedIn]. Il s&#39;appuie sur les vidéos et la documentation supplémentaires concernant [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Vous pouvez aussi trouver d&#39;autres vidéos concernant [!UICONTROL People-Based Destinations] ICI [](https://adobe.ly/aamlearnpbd).
+Vous pouvez également trouver d&#39;autres vidéos concernant [!UICONTROL People-Based Destinations] [ICI](https://adobe.ly/aamlearnpbd).
