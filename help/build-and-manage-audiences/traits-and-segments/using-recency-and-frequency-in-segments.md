@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Utilisation [!UICONTROL Recency] et [!UICONTROL Frequency] dans les segments
+# Utilisation de [!UICONTROL Recency] et [!UICONTROL Frequency] dans les segments
 
-Utilisez [!UICONTROL Recency] et [!UICONTROL Frequency] pour indiquer les paramètres de segment du nombre de fois où un visiteur doit être admissible pour une caractéristique au cours d’une période donnée. Idéal pour l’affinité du contenu et le plafonnement des fréquences, ainsi que pour d’autres cas d’utilisation.
+Utilisez [!UICONTROL Recency] et [!UICONTROL Frequency] pour définir les paramètres de votre segment du nombre de fois où un visiteur doit être admissible pour une caractéristique au cours d’une période donnée. Idéal pour l’affinité du contenu et le plafonnement des fréquences, ainsi que pour d’autres cas d’utilisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
