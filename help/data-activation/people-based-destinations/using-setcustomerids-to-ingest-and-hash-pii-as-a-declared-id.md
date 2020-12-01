@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Utilisation [!DNL setCustomerIDs()] de l’API d’importation et de hachage comme identifiant déclaré
+# Utilisation de [!DNL setCustomerIDs()] pour assimiler et hacher des informations d’identification personnelle en tant qu’identifiant déclaré
 
-Dans cette vidéo, vous apprendrez pourquoi et comment utiliser la `setCustomerIDs()` méthode du service d’identification des Experience Cloud pour assimiler et hacher une adresse électronique et pour l’utiliser comme identifiant déclaré. Cela ne lie pas seulement l’ID de gestion de la relation client et l’adresse électronique, mais les synchronise également avec l’UUID Adobe Audience Manager, c’est-à-dire l’ID de périphérique anonyme. Ces adresses électroniques hachées peuvent ensuite être envoyées à [!UICONTROL People-Based Destinations].
+Dans cette vidéo, vous apprendrez pourquoi et comment utiliser la méthode `setCustomerIDs()` du service d’identification des Experience Cloud pour assimiler et hacher une adresse électronique et l’utiliser comme identifiant déclaré. Cela ne lie pas seulement l’ID de gestion de la relation client et l’adresse électronique, mais les synchronise également avec l’UUID Adobe Audience Manager, c’est-à-dire l’ID de périphérique anonyme. Ces adresses électroniques hachées peuvent ensuite être envoyées à [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html).
