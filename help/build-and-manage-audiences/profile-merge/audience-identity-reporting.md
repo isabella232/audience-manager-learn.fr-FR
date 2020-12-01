@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Création de rapports
 
-[!DNL Audience Identity] Le rapports permet aux clients de fournir un rapport sur la population totale d&#39;un [!UICONTROL trait] individu ou [!UICONTROL segment] par définition de l&#39;identité personnelle ou familiale. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports sur les Audiences Manager.
+[!DNL Audience Identity] Le rapports permet aux clients de fournir un rapport sur la population totale d&#39;une personne  [!UICONTROL trait] ou  [!UICONTROL segment] par définition de l&#39;identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports sur les Audiences Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
