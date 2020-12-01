@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Surveillance et Rapports de l&#39;utilisation des Activités
 
-Dans cette vidéo, nous allons découvrir comment utiliser les [!DNL Activity Usage Report]options d&#39;affichage et de téléchargement.
+Dans cette vidéo, nous allons découvrir comment utiliser [!DNL Activity Usage Report], y compris les options d&#39;affichage et de téléchargement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
