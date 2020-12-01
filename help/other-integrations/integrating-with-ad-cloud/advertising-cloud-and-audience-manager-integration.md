@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Intégration Adobe Advertising Cloud et Adobe Audience Manager {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
-Découvrez comment fonctionne l&#39;intégration entre Adobe Audience Manager et [!DNL Adobe Ad Cloud] . Obtenez également des réponses sur les taux de correspondance et la synchronisation des [!UICONTROL third party] cookies.
+Découvrez comment fonctionne l&#39;intégration entre Adobe Audience Manager et [!DNL Adobe Ad Cloud]. Obtenez également des réponses sur les taux de correspondance et la synchronisation de cookies [!UICONTROL third party].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
