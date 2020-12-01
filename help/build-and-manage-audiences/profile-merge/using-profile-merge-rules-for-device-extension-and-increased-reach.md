@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Utilisation [!UICONTROL Profile Merge Rules] de l&#39;extension de périphérique et de la portée accrue
+# Utilisation de [!UICONTROL Profile Merge Rules] pour l&#39;extension du périphérique et la portée accrue
 
-Utilisez cette option [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les périphériques d’un utilisateur, de sorte que vous puissiez commercialiser des personnes plutôt que des périphériques.
+Utilisez [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les périphériques d’un utilisateur, de sorte que vous puissiez commercialiser des personnes plutôt que des périphériques.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
