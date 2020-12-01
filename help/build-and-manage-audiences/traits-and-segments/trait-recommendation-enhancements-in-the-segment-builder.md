@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] Améliorations apportées au [!DNL Segment Builder]
+# [!DNL Trait Recommendation] Améliorations apportées au  [!DNL Segment Builder]
 
-Dans cette vidéo, vous verrez comment utiliser la mise à jour [!DNL trait recommendations] dans la section [!DNL segment builder], qui sont des recommandations d&#39;Audience Marketplace. Vous obtiendrez ainsi des informations supplémentaires sur [!DNL third party] les données susceptibles d’étendre la portée de votre [!UICONTROL segments]application.
+Dans cette vidéo, vous verrez comment utiliser le [!DNL trait recommendations] mis à jour dans le [!DNL segment builder], qui sont des recommandations d&#39;Audience Marketplace. Vous y trouverez des informations supplémentaires sur les données [!DNL third party] qui peuvent étendre la portée de [!UICONTROL segments].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html).
