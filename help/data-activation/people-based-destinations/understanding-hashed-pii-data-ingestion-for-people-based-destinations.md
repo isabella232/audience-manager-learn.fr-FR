@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Présentation de l&#39;importation de données d&#39;identification par hachage pour [!UICONTROL People-Based Destinations]
+# Présentation de l&#39;importation de données d&#39;identification personnelle hachée pour [!UICONTROL People-Based Destinations]
 
-Cette vidéo porte sur les éléments à prendre en compte lorsque vous vous apprêtez à intégrer des informations d’identification personnelle en Audience Manager pour [!UICONTROL People-Based Destinations]le moment.
+Cette vidéo porte sur les éléments à prendre en compte lorsque vous serez prêt à intégrer des informations d’identification personnelle en Audience Manager pour [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
