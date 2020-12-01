@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Récupérer les informations d&#39;identification de l&#39;API dans les E/S d&#39;Adobe
+# Récupération des informations d’identification de l’API dans Adobe I/O
 
 Au lieu de contacter le service de conseil en Adobe ou le service d’assistance clientèle pour obtenir des informations d’identification pour utiliser l’API REST, vous pouvez simplement vous rendre à Adobe.io dans un navigateur et récupérer ou enregistrer vos propres informations d’identification.
 
