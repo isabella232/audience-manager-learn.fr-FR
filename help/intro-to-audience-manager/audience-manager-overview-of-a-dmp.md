@@ -24,4 +24,4 @@ Comprendre les principaux défis liés à la personnalisation sur plusieurs cana
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
