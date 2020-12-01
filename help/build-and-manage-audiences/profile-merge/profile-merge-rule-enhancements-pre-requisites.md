@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Améliorations - Prérequis
 
-Présentation de la meilleure façon de se préparer à la publication des [!UICONTROL Profile Merge Rule] améliorations.
+Présentation de la meilleure façon de se préparer à la publication des améliorations [!UICONTROL Profile Merge Rule].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
