@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Création d’une [!UICONTROL First Party] apparence [!UICONTROL Model] dans AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Création d&#39;une [!UICONTROL First Party] ressemblance [!UICONTROL Model] dans AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-Dans cette vidéo, vous apprendrez comment créer un [!UICONTROL first party] look [!UICONTROL model]semblable, afin que vous puissiez trouver plus de vos propres visiteurs qui ressemblent à vos convertisseurs.
+Dans cette vidéo, vous apprendrez comment créer un [!UICONTROL first party] look-like [!UICONTROL model], afin que vous puissiez trouver un plus grand nombre de vos propres visiteurs qui ressemblent à vos convertisseurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
