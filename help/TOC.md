@@ -28,7 +28,7 @@ ht-degree: 5%
 + Configuration et administration {#setup-and-admin}
    + Sources de données {#data-sources}
       + [Création d’une source de données pour les données Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
-   + Gouvernance des données et confidentialité {#data-governance-and-privacy}
+   + Gouvernance des données et respect de la vie privée {#data-governance-and-privacy}
       + [Validation de l’ID de périphérique global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Prise en charge d’IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Obscurcissement d’IP par pays](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
@@ -49,11 +49,11 @@ ht-degree: 5%
    + [Mise en oeuvre dans les applications iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
    + [Mise en oeuvre dans les applications Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + Audience Marketplace {#audience-marketplace}
-   + Acheter des données {#buying-data}
+   + Données d&#39;achat {#buying-data}
       + [Rapports 2e et 3e utilisation des données dans l’Audience Marketplace au niveau du segment](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Téléchargement en masse de l’utilisation des données en Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Utilisation de Filtres et de Recommendations pour choisir des données tierces dans l&#39;Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ Création et gestion des Audiences {#build-and-manage-audiences}
++ Créer et gérer des Audiences {#build-and-manage-audiences}
    + Explorateur de données {#data-explorer}
       + [Utilisation du Tableau de bord Signals pour Vue rapide Principaux signaux disponibles](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Utilisation du Data Explorer pour rechercher des paires clé/valeur utilisées et non utilisées](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -86,8 +86,8 @@ ht-degree: 5%
       + [Présentation des nombres dans le graphique de segments](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Conseils à la clientèle - Bonnes pratiques relatives aux caractéristiques et aux segments](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modèles algorithmiques {#algorithmic-models}
-      + [Compréhension [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurer et créer des rapports sur [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Compréhension  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configurer et créer des rapports sur  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Création d’un modèle de premier plan](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclusion de caractéristiques dans les modèles algorithmiques (identiques)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Augmenter le RSDP en utilisant des modèles algorithmiques (ressemblants)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -107,7 +107,7 @@ ht-degree: 5%
       + [Présentation des mesures sur plusieurs périphériques en Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Conseils à la clientèle : tirer le meilleur parti des règles de fusion de Profils](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Activation de données {#data-activation}
-   + Concepts de base des destinations {#destinations-basics}
+   + Destinations - Notions de base {#destinations-basics}
       + [Présentation des types de destination des Audiences Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Comprendre les taux de correspondance](data-activation/destinations-basics/understanding-match-rates.md)
       + [Présentation de l&#39;interface de taux de correspondance](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
@@ -130,7 +130,7 @@ ht-degree: 5%
    + [Utilisation des rapports généraux avec des caractéristiques et des segments](reports/using-general-reports-with-traits-and-segments.md)
    + [Utilisation des rapports de tendances avec des caractéristiques et des segments](reports/using-trended-reports-with-traits-and-segments.md)
 + Autres intégrations {#other-integrations}
-   + Intégration avec Ad Cloud {#integrating-with-ad-cloud}
+   + Intégration à Ad Cloud {#integrating-with-ad-cloud}
       + [Intégration Adobe Advertising Cloud et Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + Visiteur{#api}
-   + [Récupérer les informations d&#39;identification de l&#39;API dans les E/S d&#39;Adobe](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Récupération des informations d’identification de l’API dans Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
