@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels d’Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + Configuration et administration {#setup-and-admin}
    + Sources de données {#data-sources}
       + [Création d’une source de données pour les données Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Création d’une source de données sur plusieurs périphériques et authentification](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gestion des utilisateurs {#user-management}
       + [Définition des autorisations avec un Contrôle d&#39;accès basé sur les rôles](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Gouvernance des données et respect de la vie privée {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [Utilisation des gestionnaires de balises pour implémenter l’Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Comment identifier votre ID de partenaire ou votre sous-domaine](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Utilisation des meilleures pratiques sur les pages SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Intégration des données hors ligne {#integrating-offline-data}
+   + [Formatage et insertion de données basées sur des fichiers](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Procédure d’importation de données basées sur des fichiers](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implémentation mobile {#mobile-implementation}
    + [Mise en oeuvre dans les applications de widgets iOS](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Mise en oeuvre dans les applications iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
