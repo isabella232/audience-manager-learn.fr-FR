@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels d’Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 4%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 4%
       + [Rapports 2e et 3e utilisation des données dans l’Audience Marketplace au niveau du segment](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Téléchargement en masse de l’utilisation des données en Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Utilisation de Filtres et de Recommendations pour choisir des données tierces dans l&#39;Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Vente de données {#selling-data}
+      + [Commercialiser les audiences détenues sur le marché](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Créer et gérer des Audiences {#build-and-manage-audiences}
    + Explorateur de données {#data-explorer}
       + [Utilisation du Tableau de bord Signals pour Vue rapide Principaux signaux disponibles](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,7 +144,11 @@ ht-degree: 4%
    + [Comprendre les Audiences connexes avec les rapports de chevauchement](reports/understand-related-audiences-with-overlap-reports.md)
    + [Utilisation des rapports d’Audience Optimization pour comprendre les performances des médias](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Autres intégrations {#other-integrations}
+   + Intégration à la plateforme de données client en temps réel {#integrating-with-rtcdp}
+      + [Envoi de données à l’aide du connecteur de données Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Présentation de l&#39;importation de données propriétaires dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Présentation de l&#39;importation des données Web dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Intégration à Ad Cloud {#integrating-with-ad-cloud}
       + [Intégration Adobe Advertising Cloud et Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + Visiteur{#api}
-   + [Récupération des informations d’identification de l’API dans Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Récupérer les informations d&#39;identification de l&#39;API dans l&#39;Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
