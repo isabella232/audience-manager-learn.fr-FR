@@ -1,17 +1,18 @@
 ---
 title: Téléchargement en masse de l’utilisation des données en Audience Marketplace
 description: 'Lorsque vous signalez votre utilisation de données tierces et 2e partie dans l’Audience Marketplace, vous disposez peut-être de suffisamment d’entrées pour éviter de le faire manuellement. Dans cette vidéo, vous apprendrez à utiliser l''outil de transfert en masse du rapports d''utilisation des données, de sorte que vous puissiez facilement signaler votre utilisation des données, même si vous avez de nombreux éléments à mettre à jour. '
-feature: audience marketplace
+feature: Marché des audiences
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
