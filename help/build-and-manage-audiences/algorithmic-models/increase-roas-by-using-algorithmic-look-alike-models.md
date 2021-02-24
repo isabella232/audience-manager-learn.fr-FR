@@ -1,17 +1,18 @@
 ---
 title: Augmenter le RSDP en utilisant des modèles algorithmiques (ressemblants) dans l'Audience Manager
 description: La véritable puissance de la modélisation identique à celle des Audiences Manager réside dans le fait que vous cherchez à étendre votre audience de base par rapport à un ensemble d’utilisateurs de qualité, tout nouveau, provenant de sources de données tierces et de deuxième niveau. Dans ce didacticiel, apprenez comment créer un modèle à partir de ces données.
-feature: algorithmic models
+feature: modèles algorithmiques
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
@@ -49,7 +50,7 @@ Après avoir suivi les étapes ci-dessus, nous sommes maintenant prêts à crée
 
 ## Une bonne pratique importante {#an-important-best-practice}
 
-Lors de la création de l&#39;algorithme [!UICONTROL model] en Audience Manager, nous voulons évidemment que [!UICONTROL model] soit aussi efficace que possible. Comme le [!UICONTROL model] prend en compte tous les [!UICONTROL traits] dont font partie les membres de votre base [!UICONTROL trait]/[!UICONTROL segment], il n’aide pas le [!UICONTROL model] si TOUTES les personnes sont dans un [!UICONTROL trait]/[!UICONTROL segment]. Par conséquent, si vous avez un [!UICONTROL traits] super générique (comme tous ceux qui sont allés sur votre site, ou tous ceux qui ont reçu une publicité de votre part, etc.), assurez-vous que le [!UICONTROL data source] auquel ils appartiennent n&#39;est PAS inclus dans le [!UICONTROL data sources] de votre [!UICONTROL model]. Dans le cas d’utilisation de cet article, il est peu probable que vous le fassiez, car nous nous concentrons sur l’analyse des données [!UICONTROL third party] pour nos nouveaux alias d’apparence, mais cela vaut la peine d’être mentionné, et cela s’applique à TOUS vos [!UICONTROL models] algorithmes.
+Lors de la création de l&#39;algorithme [!UICONTROL model] en Audience Manager, nous voulons évidemment que [!UICONTROL model] soit aussi efficace que possible. Comme le [!UICONTROL model] prend en compte tous les [!UICONTROL traits] dont font partie les membres de votre base [!UICONTROL trait]/[!UICONTROL segment], il n’aide pas le [!UICONTROL model] si TOUTES les personnes sont dans un [!UICONTROL trait]/[!UICONTROL segment]. Par conséquent, si vous avez un [!UICONTROL traits] super générique (comme tous ceux qui sont allés sur votre site, ou tous ceux qui ont reçu une publicité de votre part, etc.), assurez-vous que le [!UICONTROL data source] auquel ils appartiennent n&#39;est PAS inclus dans le [!UICONTROL data sources] de votre [!UICONTROL model]. Dans le cas d’utilisation de cet article, il est peu probable que vous le fassiez, car nous nous concentrons sur l’analyse des données [!UICONTROL third party] pour nos nouveaux alias d’apparence, mais cela vaut la peine d’être mentionné, et cela s’applique à TOUTES vos données algorithmiques [!UICONTROL models].
 
 ## Création d’un algorithme [!UICONTROL Trait] {#creating-an-algorithmic-trait}
 
