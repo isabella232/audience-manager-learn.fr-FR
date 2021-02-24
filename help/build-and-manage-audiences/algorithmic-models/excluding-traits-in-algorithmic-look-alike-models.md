@@ -1,17 +1,18 @@
 ---
 title: Exclusion de caractéristiques dans les modèles algorithmiques (identiques)
 description: 'Dans cette vidéo, vous apprendrez comment et pourquoi exclure des caractéristiques spécifiques (ou groupes de caractéristiques) d''un modèle algorithmique (ressemblance). '
-feature: algorithmic models
+feature: modèles algorithmiques
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25569.jpg
 kt: 1759
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,6 @@ Dans cette vidéo, vous apprendrez comment et pourquoi exclure des groupes [!UIC
 Cas d’utilisation de cette fonctionnalité :
 
 * [!UICONTROL traits] très courant, tel que le visiteur du site [!UICONTROL traits] bifurque [!UICONTROL model] ce qui ne sera pas utile pour trouver une audience de qualité identique. Les clients n&#39;ont plus à créer un [!UICONTROL data source] distinct et à stocker le [!UICONTROL traits] commun dans le nouveau [!UICONTROL data source], mais peuvent maintenant simplement les exclure.
-* Il existe maintenant un moyen d&#39;utiliser un sous-ensemble [!UICONTROL traits] d&#39;un [!UICONTROL third party], tel que des intérêts comportementaux, plutôt que toutes les informations d&#39;un [!UICONTROL model]. [!UICONTROL Third parties] généralement envoyer beaucoup de données qui pourraient ne pas être utiles pour le client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d&#39;un point de vue juridique dans la modélisation. Vous pouvez maintenant exclure [!UICONTROL traits] ou des dossiers de [!UICONTROL traits] que vous ne souhaitez pas inclure dans [!UICONTROL model].
+* Il existe maintenant un moyen d&#39;utiliser un sous-ensemble [!UICONTROL traits] d&#39;un [!UICONTROL third party], tel que des intérêts comportementaux, plutôt que toutes les informations d&#39;un [!UICONTROL model]. [!UICONTROL Third parties] en général, envoyer beaucoup de données qui pourraient ne pas être utiles pour le client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d&#39;un point de vue juridique dans la modélisation. Vous pouvez maintenant exclure [!UICONTROL traits] ou des dossiers de [!UICONTROL traits] que vous ne souhaitez pas inclure dans [!UICONTROL model].
 
 Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html).
