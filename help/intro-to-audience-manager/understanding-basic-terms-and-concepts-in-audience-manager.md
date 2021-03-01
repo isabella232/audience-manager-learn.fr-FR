@@ -1,8 +1,8 @@
 ---
 title: Présentation des termes et concepts de base dans l'Audience Manager
 description: Dans cette vidéo, nous allons passer en revue certains des termes et concepts de base, tels que les signaux, les caractéristiques et les segments, pour vous familiariser avec Audience Manager.
-landing-page-description: Learn basic terms and concepts that will get you started in Audience Manager, including signals, traits, segments, and more.
-feature: overview
+landing-page-description: 'Découvrez les termes et concepts de base qui vous aideront à prendre en main Audience Manager : les signaux, les caractéristiques, les segments, etc.'
+feature: de la validation
 topics: null
 audience: all
 activity: understand
@@ -13,8 +13,8 @@ thumbnail: 33887.jpg
 translation-type: tm+mt
 source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 77%
+source-wordcount: '90'
+ht-degree: 82%
 
 ---
 
