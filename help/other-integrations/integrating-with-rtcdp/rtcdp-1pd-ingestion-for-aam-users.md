@@ -3,17 +3,19 @@ title: Présentation de l'importation de données propriétaires dans le CDP en 
 description: Cette vidéo traite de l’assimilation de données hors ligne propriétaires dans la plateforme de données client en temps réel (CDP en temps réel) pour les utilisateurs de Adobe Audience Manager. Nous examinons certaines des principales différences entre les deux produits en ce qui concerne l'assimilation des données et nous montrons comment le connecteur de données d'Audience Manager peut être utilisé comme un espace d'arrêt jusqu'à ce que les processus soient transférés au CDP en temps réel.
 feature: Intégration de plateformes
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
+topic: Intégrations
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 0%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
