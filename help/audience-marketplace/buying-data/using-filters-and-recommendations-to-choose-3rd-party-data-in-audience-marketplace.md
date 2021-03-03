@@ -1,19 +1,20 @@
 ---
 title: Utilisation de Filtres et de Recommendations pour choisir des données tierces dans l’Audience Marketplace
 description: Cette vidéo présente les options de filtres et de recommandations de l’Audience Marketplace pour vous aider à choisir le fournisseur de données tiers approprié à vos besoins.
-feature: Marché des audiences
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
