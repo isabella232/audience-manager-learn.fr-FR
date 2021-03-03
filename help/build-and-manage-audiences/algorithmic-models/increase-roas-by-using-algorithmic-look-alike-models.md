@@ -1,18 +1,19 @@
 ---
 title: Augmenter le RSDP en utilisant des modèles algorithmiques (ressemblants) dans l'Audience Manager
 description: La véritable puissance de la modélisation identique à celle des Audiences Manager réside dans le fait que vous cherchez à étendre votre audience de base par rapport à un ensemble d’utilisateurs de qualité, tout nouveau, provenant de sources de données tierces et de deuxième niveau. Dans ce didacticiel, apprenez comment créer un modèle à partir de ces données.
-feature: modèles algorithmiques
+feature: Modèles algorithmiques
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
