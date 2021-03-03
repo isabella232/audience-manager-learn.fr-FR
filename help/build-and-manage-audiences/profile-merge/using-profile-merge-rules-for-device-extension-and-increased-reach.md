@@ -1,18 +1,19 @@
 ---
 title: Utilisation de règles de fusion de Profils pour l'extension de périphérique et la portée accrue
 description: Utilisez les règles de fusion de Profil pour étendre la portée à tous les périphériques d’un utilisateur, de sorte que vous puissiez commercialiser des personnes plutôt que des périphériques.
-feature: profile merge
+feature: Fusion de profil
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
