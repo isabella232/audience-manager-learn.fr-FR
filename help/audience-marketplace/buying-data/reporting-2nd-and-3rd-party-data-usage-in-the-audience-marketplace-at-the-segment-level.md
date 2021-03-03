@@ -1,18 +1,19 @@
 ---
 title: Rapports 2e et 3e utilisation des données dans l’Audience Marketplace au niveau du segment
 description: Cette vidéo présente une nouvelle méthode d'utilisation des données de rapports dans la section Payables de l'interface utilisateur de l'Audience Marketplace. Outre le processus actuel de rapports au niveau du flux, les impressions mensuelles peuvent désormais être envoyées au niveau du segment, ce qui évite d’avoir à effectuer des calculs hors ligne pour l’attribution des coûts.
-feature: Marché des audiences
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
