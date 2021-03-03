@@ -1,18 +1,19 @@
 ---
 title: Utilisation des rapports de tendances avec des caractéristiques et des segments
 description: Découvrez comment utiliser les rapports de tendance en Audience Manager pour déterminer les performances des caractéristiques et des segments au fil du temps.
-feature: general & trend reports
+feature: '"Rapports généraux et de tendances"'
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 67413caf1c59c446c16beb5b84b48e7fad06e575
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
