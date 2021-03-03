@@ -1,18 +1,19 @@
 ---
 title: Prise en charge d’IAB TCF 2.0 en Audience Manager
 description: Adobe vous offre les moyens de gérer et de communiquer les choix de confidentialité de vos utilisateurs grâce à la fonctionnalité d’inclusion et au module d’Audience Manager de la prise en charge du Cadre de transparence et de consentement IAB 2.0 (TCF 2.0). Cet article travaille en collaboration avec la documentation pour vous aider à comprendre le module d’Audience Manager à IAB TCF et comment il fonctionne avec l’objet d’inclusion d’Adobe et votre fournisseur de gestion du consentement (CMP).
-feature: data governance & privacy
+feature: '"Gouvernance des données et confidentialité"'
 topics: null
-audience: implementer, architect
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
+role: '"Développeur, ingénieur des données, architecte"'
+level: Expérience
 translation-type: tm+mt
-source-git-commit: df8afb50ed3971dc47e6506d31a8222a7f488b25
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: '1131'
 ht-degree: 0%
 
 ---
@@ -73,7 +74,7 @@ L&#39;un des avantages de l&#39;utilisation du TCF de l&#39;IAB est que les obje
 
 Pour que l&#39;Audience Manager soit approuvée (c.-à-d. pour que la traduction des fins de l&#39;IAB pour l&#39;inscription donne AAM &quot;oui&quot;), les buts 1 et 10, énumérés ci-dessus, doivent recevoir le consentement de l&#39;utilisateur final. Si l&#39;un ou l&#39;autre n&#39;est pas approuvé, ou si un fournisseur n&#39;est pas approuvé, AAM n&#39;exécutera pas les incendies de pixels ou ne définira pas de cookies. Il est également bon de savoir que de nombreux clients choisissent simplement de fournir à l&#39;utilisateur final une interface utilisateur &quot;tout ou rien&quot;, qui permettrait, bien sûr, ou refuserait l&#39;utilisation de l&#39;Audience Manager (et les autres solutions Experience Cloud).
 
-La [documentation](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) contient de superbes informations sur la façon dont le flux du module externe d’Audience Manager pour IAB TCF s’applique aux cas d’utilisation de l’éditeur et de l’annonceur.
+La [documentation](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) contient de superbes informations sur la manière dont le flux du module externe d’Audience Manager pour IAB TCF s’applique aux cas d’utilisation de l’éditeur et de l’annonceur.
 
 ## IAB : Envoi du consentement en aval {#iab-sending-consent-downstream}
 
