@@ -1,18 +1,19 @@
 ---
 title: Invitation d’informations d’identification personnelle hachées pour les destinations basées sur les personnes
 description: Dans cette vidéo, découvrez comment mettre en forme une synchronisation d’identifiants basée sur des fichiers, afin d’associer vos identifiants de client (identifiants de gestion de la relation client) à des adresses électroniques hachées.
-feature: people-based destinations
+feature: '"Destinations basées sur les personnes"'
 topics: null
-audience: all
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
