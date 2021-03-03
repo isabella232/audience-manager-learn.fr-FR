@@ -1,19 +1,20 @@
 ---
 title: Mappage des segments d’Audience Manager aux destinations
 description: Découvrez les différents types de destinations en Audience Manager et les détails du mappage de segments à chaque type de destination.
-feature: segments
+feature: 'Segments '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: e00cf9269b6e33fddfda7e70baf79ca82f7a70ea
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 
