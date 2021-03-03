@@ -1,18 +1,19 @@
 ---
 title: Configuration des règles de fusion de Profils pour les destinations basées sur les personnes
 description: Dans cette vidéo, découvrez comment configurer une règle de fusion de Profils à utiliser pour les destinations basées sur les personnes, y compris quand utiliser une nouvelle option sur plusieurs périphériques.
-feature: people-based destinations
+feature: '"Destinations basées sur les personnes"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
