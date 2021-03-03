@@ -1,18 +1,19 @@
 ---
 title: Choix de la règle de fusion du bon Profil
 description: Dans cette vidéo, découvrez trois des cas d’utilisation les plus courants des règles de fusion de Profils et comment elles peuvent vous aider dans vos efforts marketing.
-feature: profile merge
+feature: Fusion de profil
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37908.jpg
 kt: 5833
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
