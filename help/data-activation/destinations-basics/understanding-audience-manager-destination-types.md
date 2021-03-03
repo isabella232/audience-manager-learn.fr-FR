@@ -1,18 +1,19 @@
 ---
 title: Présentation des types de destination des Audiences Manager
 description: Cette vidéo vous guidera dans les différents types de destinations de Adobe Audience Manager et vous donnera des exemples d'utilisation de chacune d'elles.
-feature: destination basics
+feature: Concepts de base des destinations
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
