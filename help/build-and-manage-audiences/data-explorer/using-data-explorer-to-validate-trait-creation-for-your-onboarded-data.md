@@ -1,18 +1,19 @@
 ---
 title: 'Utilisation du Data Explorer pour valider la création de caractéristiques pour vos données intégrées '
 description: L'une des fonctionnalités les plus puissantes de l'Audience Manager est la possibilité d'embarquer des données hors ligne et de les lier à vos données en ligne. Dans cette vidéo, découvrez comment utiliser le Data Explorer pour vérifier que vous avez créé toutes les caractéristiques nécessaires pour exploiter ces données intégrées.
-feature: data explorer
+feature: 'Explorateur de données '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
