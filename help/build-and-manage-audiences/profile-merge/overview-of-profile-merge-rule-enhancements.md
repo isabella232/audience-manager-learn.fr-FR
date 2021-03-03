@@ -3,16 +3,17 @@ title: Présentation des améliorations des règles de fusion de Profils
 description: Cette vidéo présente les améliorations apportées aux règles de fusion de Profils, publiées en octobre 2019.
 feature: Fusion de profil
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
