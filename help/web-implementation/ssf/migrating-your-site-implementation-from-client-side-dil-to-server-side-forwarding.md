@@ -2,17 +2,18 @@
 title: Migration de l’implémentation AAM votre site du DIL côté client vers le transfert côté serveur
 description: Ce didacticiel s’applique à vous si vous avez à la fois Adobe Audience Manager (AAM) et Adobe Analytics, et que vous envoyez actuellement un accès de la page à AAM à l’aide du code "DIL" (Data Integration Library), ainsi qu’un accès de la page à Adobe Analytics. Puisque vous disposez de ces deux solutions et qu’elles font toutes deux partie du Adobe Experience Cloud, vous avez la possibilité de suivre la bonne pratique consistant à activer le transfert côté serveur (SSF), qui permet aux serveurs de collecte de données Analytics de transférer les données d’analyse du site en temps réel vers l’Audience Manager, plutôt que de faire envoyer un accès supplémentaire de la page vers AAM au code côté client. Ce didacticiel vous explique comment passer de l’ancienne mise en oeuvre du DIL côté client à la nouvelle méthode de transfert côté serveur.
 product: audience manager, analytics
-feature: integration with analytics
+feature: Intégration d’Adobe Analytics
 topics: null
-audience: implementer
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
+role: '"Développeur, ingénieur de données"'
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 133279f589bd58aef36a980c2b7248ae00fd9496
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '2319'
+source-wordcount: '2326'
 ht-degree: 0%
 
 ---
@@ -85,14 +86,14 @@ Lorsque vous vous préparez à passer du code de DIL [!DNL Client-Side] à [!UIC
 * Variables [!DNL Analytics] normales, à l&#39;aide du module DIL [!DNL siteCatalyst.init] - Vous n&#39;aurez pas à vous inquiéter de celle-ci, car son travail consiste simplement à envoyer les variables [!DNL Analytics] normales, et cela se fera simplement en ayant SSF activé.
 * Sous-domaine partenaire : dans la fonction DIL.create, notez le paramètre `partner`. Il s’agit de votre &quot;sous-domaine partenaire&quot;, ou parfois de votre &quot;identifiant partenaire&quot;, qui sera nécessaire lorsque vous placerez le nouveau code SSF.
 * [!DNL Visitor Service Namespace] - Également appelé &quot;[!DNL Org ID]&quot; ou &quot;[!DNL IMS Org ID]&quot;, vous en aurez également besoin lorsque vous configurerez le nouveau code SSF. En prends note.
-* containerNSID, uuidCookie et d&#39;autres options avancées : notez les options avancées supplémentaires que vous utilisez afin de pouvoir les définir également dans le code SSF.
+* containerNSID, uuidCookie et d&#39;autres options avancées : notez les options avancées supplémentaires que vous utilisez afin de pouvoir les définir dans le code SSF.
 * Variables de page supplémentaires - Si d&#39;autres variables sont envoyées à l&#39;AAM à partir de la page (en plus des variables [!DNL Analytics] normales gérées par siteCatalyst.init), vous devez en prendre note afin qu&#39;elles puissent être envoyées via SSF (spoiler alert : par le biais de [!DNL contextData] variables).
 
 ### Étape 2 : Mise à jour du code {#step-updating-the-code}
 
 Dans la section ci-dessus intitulée &quot;Options d’implémentation&quot;, plusieurs options sont fournies concernant la manière et l’emplacement d’implémentation de [!UICONTROL Server-Side Forwarding]. Pour que cette section soit efficace, nous devons la diviser en deux sections (dont deux sont combinées). Accédez à la méthode de cette section qui décrit le mieux vos besoins.
 
-####  d’Adobe Experience Platform Launch{#launch-by-adobe}
+#### Adobe Experience Platform Launch {#launch-by-adobe}
 
 Regardez la vidéo ci-dessous pour en savoir plus sur le déplacement des options d&#39;implémentation du code du DIL [!DNL Client-Side] vers [!UICONTROL Server-Side Forwarding] dans l&#39;Experience Platform Launch.
 
