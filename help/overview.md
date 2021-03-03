@@ -1,16 +1,17 @@
 ---
 title: Vidéos et Tutorials Analytics
 description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
-feature: overview
+feature: Présentation
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '349'
 ht-degree: 12%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 12%
 
 # Présentation
 
-Bienvenue sur le site des Tutorials d&#39;Audiences Manager.  L&#39;utilisation de ces didacticiels ainsi que de la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) vous permettra de mieux comprendre comment utiliser Adobe Audience Manager pour créer et activer des audiences sur n&#39;importe quel canal ou dispositif à l&#39;aide de [!DNL data management platform] le meilleur de la classe &lt;a2/> du Adobe.
+Bienvenue sur le site des Tutorials d&#39;Audiences Manager.  L&#39;utilisation de ces didacticiels ainsi que de la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) vous permettra de mieux comprendre comment utiliser Adobe Audience Manager pour créer et activer des audiences sur n&#39;importe quel canal ou dispositif à l&#39;aide de [!DNL data management platform] le meilleur de la classe  du Adobe.
 
 * **Le personnel** de Pickshlight met en évidence certains de nos contenus préférés
 * Explorez le contenu par rubrique et sous-rubrique dans le **menu de navigation de gauche**
