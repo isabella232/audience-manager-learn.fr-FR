@@ -1,18 +1,19 @@
 ---
 title: Améliorations des recommandations de caractéristiques dans le créateur de segments
 description: Cette vidéo montre comment utiliser les recommandations de caractéristiques mises à jour dans le créateur de segments, qui sont des recommandations d’Audience Marketplace. Vous obtiendrez ainsi des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
-feature: segments
+feature: 'Segments '
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 4988e9eb900e5dfd6e0a69a25509186d26dceffb
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
