@@ -1,19 +1,20 @@
 ---
 title: Utilisation du Data Explorer pour créer des traits et des segments rétroactifs
 description: Cette vidéo montre comment créer des caractéristiques rétroactives, c'est-à-dire des caractéristiques qui renvoient des données vers la caractéristique d'avant sa création. C'est une grande percée dans la création de votre trait !
-feature: data explorer
+feature: 'Explorateur de données '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
