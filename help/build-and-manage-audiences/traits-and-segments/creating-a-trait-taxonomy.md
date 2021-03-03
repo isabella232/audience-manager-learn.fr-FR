@@ -1,19 +1,20 @@
 ---
 title: Création d'une taxonomie de caractéristiques
 description: Découvrez des conseils sur la création de structures de dossiers contenant vos caractéristiques en Audience Manager.
-feature: traits
+feature: 'Caractéristiques '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 9964af4660db48b82da871f426bbf70b3955f0f1
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
