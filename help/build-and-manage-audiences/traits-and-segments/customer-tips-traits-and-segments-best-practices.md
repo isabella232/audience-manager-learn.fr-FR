@@ -1,18 +1,19 @@
 ---
 title: Conseils à la clientèle - Bonnes pratiques relatives aux caractéristiques et aux segments
 description: Matt Vittorioso, spécialiste principal du marketing chez Ally Financial, donne des conseils sur la gestion des caractéristiques et des segments.
-feature: segments
+feature: 'Segments '
 topics: null
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: daefaa6b0d81d1c5246ffec7897feb7f2375aee8
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
