@@ -1,24 +1,25 @@
 ---
 title: Utilisation de setCustomerIDs() pour collecter et hacher les informations d’identification personnelle en tant qu’identifiant déclaré
 description: Dans cette vidéo, vous apprendrez pourquoi et comment utiliser la méthode setCustomerIDs() du service d’identification des Experience Cloud pour assimiler et hacher une adresse électronique et l’utiliser comme identifiant déclaré. Cela ne lie pas seulement l’ID de gestion de la relation client et l’adresse électronique, mais les synchronise également avec l’UUID Adobe Audience Manager, c’est-à-dire l’ID de périphérique anonyme. Ces adresses électroniques hachées peuvent ensuite être envoyées aux Destinations basées sur les personnes.
-feature: people-based destinations
+feature: '"Destinations basées sur les personnes"'
 topics: null
-audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29136.jpg
 kt: 3689
+role: '"Développeur, ingénieur de données"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 91b0de776dbf1ab6d565f9adb5fa88d014a2e6f6
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
-# Utilisation de [!DNL setCustomerIDs()] pour assimiler et hacher des informations d’identification personnelle en tant qu’identifiant déclaré
+# Utilisation de [!DNL setCustomerIDs()] pour assimiler et hacher des informations d’identification personnelle comme identifiant déclaré
 
 Dans cette vidéo, vous apprendrez pourquoi et comment utiliser la méthode `setCustomerIDs()` du service d’identification des Experience Cloud pour assimiler et hacher une adresse électronique et l’utiliser comme identifiant déclaré. Cela ne lie pas seulement l’ID de gestion de la relation client et l’adresse électronique, mais les synchronise également avec l’UUID Adobe Audience Manager, c’est-à-dire l’ID de périphérique anonyme. Ces adresses électroniques hachées peuvent ensuite être envoyées à [!UICONTROL People-Based Destinations].
 
