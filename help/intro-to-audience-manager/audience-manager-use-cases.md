@@ -1,19 +1,20 @@
 ---
 title: Cas d’utilisation des Audiences Manager
 description: Dans cette vidéo, nous identifions quatre cas courants d'utilisation des Audiences Manager et décrivons les meilleures pratiques qui y sont associées.
-feature: overview
+feature: Présentation
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
