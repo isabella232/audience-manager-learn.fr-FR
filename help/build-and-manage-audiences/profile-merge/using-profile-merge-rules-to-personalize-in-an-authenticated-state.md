@@ -1,18 +1,19 @@
 ---
 title: Utilisation de règles de fusion de Profils pour la personnalisation dans un état authentifié
 description: Donnez à vos clients connectés une expérience personnalisée en utilisant ces paramètres de règle de fusion de Profil.
-feature: profile merge
+feature: Fusion de profil
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
