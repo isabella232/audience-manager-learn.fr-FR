@@ -1,19 +1,21 @@
 ---
 title: Définition des autorisations avec un Contrôle d'accès basé sur les rôles
 description: Le Contrôle d'accès basé sur les rôles vous permet de gérer les autorisations au niveau d’un groupe, en contrôlant qui peut voir et utiliser les ressources, y compris les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
-feature: administration
+feature: Administration
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
+topic: Administration
+role: Administrateur
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 08fe4df7561d789a42058be1c7000dbbdab68e4d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 3%
 
 ---
 
