@@ -2,18 +2,19 @@
 title: Création d’une source de données pour les données Analytics
 description: Cette vidéo présente les étapes de la création d’une source de données dans AAM, et fournit quelques conseils et astuces. Vous pouvez utiliser cette source pour les données obtenues en temps réel à partir d’une solution d’analyse, telle qu’Adobe Analytics. Cela doit être fait avant la création de caractéristiques pour les données d’analyse.
 landing-page-description: Découvrez comment créer une source de données pour les données obtenues en temps réel à partir d’une solution d’analyse, telle qu’Adobe Analytics. Effectuez cette opération avant la création de caractéristiques pour les données d’analyse.
-feature: sources de données
+feature: Sources de données
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
