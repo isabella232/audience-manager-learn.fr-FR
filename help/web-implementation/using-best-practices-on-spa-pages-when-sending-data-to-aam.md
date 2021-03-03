@@ -1,17 +1,19 @@
 ---
 title: Utilisation des bonnes pratiques sur les pages SPA lors de l’envoi de données à AAM
 description: Dans ce document, nous décrirons plusieurs bonnes pratiques que vous devez suivre et dont vous devez tenir compte lorsque vous envoyez des données d’applications d’une seule page (SPA) à Adobe Audience Manager (AAM). Ce document se concentrera sur l’utilisation du Launch by Adobe, qui est la méthode d’implémentation recommandée.
-feature: implementation basics
+feature: Concepts de base de l’implémentation
 topics: spa
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
+topic: SPA
+role: '"Développeur, ingénieur de données"'
+level: Expérience
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
