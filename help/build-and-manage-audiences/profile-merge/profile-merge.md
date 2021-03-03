@@ -1,17 +1,18 @@
 ---
 title: Profil Fusionner des vidéos et des Tutorials
 description: Cette section contient des vidéos et des didacticiels sur les fonctionnalités de fusion de Profils, telles que les règles de fusion de Profils.
-feature: profile merge
+feature: Fusion de profil
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
