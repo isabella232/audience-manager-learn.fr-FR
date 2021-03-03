@@ -1,19 +1,20 @@
 ---
 title: Utilisation des étiquettes d’exportation de données pour contrôler le flux de données
 description: Les étiquettes d’exportation de données vous offrent un mécanisme en Audience Manager pour contrôler le flux de différents types de données/sources, afin que vous puissiez respecter vos exigences en matière de confidentialité. Découvrez comment et où définir les contrôles d’exportation de données et les étiquettes d’exportation de données, pour travailler en tandem à cette fin.
-feature: data export controls
+feature: Contrôles des exportations de données
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330322.jpg
 kt: 6836
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 2%
 
 ---
 
