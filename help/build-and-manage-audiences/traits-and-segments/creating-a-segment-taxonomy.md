@@ -1,19 +1,20 @@
 ---
 title: Création d'une taxonomie de segment
 description: Lorsque vous créez un segment dans l’Audience Manager, vous le stockez dans une structure basée sur des dossiers ou une "taxonomie". Découvrez quelques conseils pour la création et la gestion de la taxonomie des segments.
-feature: segments
+feature: 'Segments '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37909.jpg
 kt: 5933
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: fe85b41c17f87a6ffb8ca6aa1fa9093bf60da4dd
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
