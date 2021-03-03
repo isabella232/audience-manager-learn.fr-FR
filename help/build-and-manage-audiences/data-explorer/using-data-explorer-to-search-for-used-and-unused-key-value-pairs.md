@@ -1,19 +1,20 @@
 ---
 title: Utilisation du Data Explorer pour rechercher des paires clé/valeur utilisées et non utilisées dans AAM
 description: Dans le travail quotidien en Audience Manager, vous devrez peut-être rapidement déterminer si une caractéristique a été créée à partir d’une paire clé/valeur spécifique. Cette vidéo vous montre comment trouver avec un Data Explorer.
-feature: data explorer
+feature: 'Explorateur de données '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '184'
+ht-degree: 1%
 
 ---
 
