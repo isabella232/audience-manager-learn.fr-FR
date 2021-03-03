@@ -1,19 +1,20 @@
 ---
 title: Choix d’une source de données lors de la création de caractéristiques
 description: Le champ Source de données est l’un des champs importants à remplir lors de la création des caractéristiques. Obtenez des conseils sur le choix de la source de données appropriée pour les caractéristiques basées sur les règles et les caractéristiques intégrées.
-feature: traits
+feature: 'Caractéristiques '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326660.jpg
 kt: 6442
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 66d67fb8089b99155387c34a792063f41387bdaf
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
