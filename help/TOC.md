@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels d’Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
+source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '910'
 ht-degree: 4%
 
 ---
@@ -157,6 +157,7 @@ ht-degree: 4%
       + [Présentation des signaux dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [Présentation des segments dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
       + [Comprendre le Contrôle d&#39;accès dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
+      + [Comprendre la gouvernance des données dans le CDP en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Intégration à Ad Cloud {#integrating-with-ad-cloud}
       + [Intégration Adobe Advertising Cloud et Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + Visiteur{#api}
