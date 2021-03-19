@@ -2,19 +2,16 @@
 title: Présentation des segments dans le CDP en temps réel pour les utilisateurs d'Audience Manager
 description: Lorsque vous passez de l’Audience Manager à la plateforme de données clientes en temps réel, il est utile de comprendre les différences de concepts. Cette vidéo présente les différences de création de segments et de segments entre l’Audience Manager et le CDP en temps réel.
 feature: Intégration de plateformes
-topics: null
-activity: understand
+topic: Intégrations
+role: Professionnel, Architecte, Administrateur, Leader
+level: Intermédiaire
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
-topic: Intégrations
-role: Professionnel
-level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
