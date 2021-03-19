@@ -3,15 +3,15 @@ title: Présentation du Contrôle d'accès dans le CDP en temps réel pour les u
 description: Lorsque vous passez de l’Audience Manager à la plateforme de données clientes en temps réel, vous voulez savoir où sont définies les autorisations d’utilisateur et de groupe. Cette vidéo montre comment le contrôle d'accès va se trouver dans le Adobe Admin Console.
 feature: Intégration de plateformes
 topic: Intégrations
-role: Professionnel
+role: Professionnel, Architecte, Administrateur, Leader
 level: Intermédiaire
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 2%
 
 ---
