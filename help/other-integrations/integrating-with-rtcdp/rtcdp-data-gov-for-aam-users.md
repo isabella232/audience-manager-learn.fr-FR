@@ -3,15 +3,15 @@ title: Présentation de la gouvernance des données dans le CDP en temps réel p
 description: Cette vidéo présente aux utilisateurs d’Audiences Manager la fonctionnalité de gouvernance des données de la plate-forme de données client en temps réel, en la comparant à ce qui était disponible dans l’Audience Manager. Il traite de la structure d’utilisation et d’étiquetage des données (DULE) et de l’emplacement dans la plate-forme où elle peut être appliquée.
 feature: Intégration de plateformes
 topic: Intégrations
-role: Professionnel
+role: Professionnel, Architecte, Administrateur, Leader
 level: Intermédiaire
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
