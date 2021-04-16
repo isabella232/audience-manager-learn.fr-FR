@@ -1,23 +1,23 @@
 ---
 title: Migration de l’implémentation AAM votre site du DIL côté client vers le transfert côté serveur
 description: Ce didacticiel s’applique à vous si vous avez à la fois Adobe Audience Manager (AAM) et Adobe Analytics, et que vous envoyez actuellement un accès de la page à AAM à l’aide du code "DIL" (Data Integration Library), ainsi qu’un accès de la page à Adobe Analytics. Puisque vous disposez de ces deux solutions et qu’elles font toutes deux partie du Adobe Experience Cloud, vous avez la possibilité de suivre la bonne pratique consistant à activer le transfert côté serveur (SSF), qui permet aux serveurs de collecte de données Analytics de transférer les données d’analyse du site en temps réel vers l’Audience Manager, plutôt que de faire envoyer un accès supplémentaire de la page vers AAM au code côté client. Ce didacticiel vous explique comment passer de l’ancienne mise en oeuvre du DIL côté client à la nouvelle méthode de transfert côté serveur.
-product: audience manager, analytics
+product: audience manager
 feature: Intégration d’Adobe Analytics
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: '"Développeur, ingénieur de données"'
-level: Intermédiaire
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
-
 
 # Migration de l’implémentation AAM de votre site du DIL [!DNL Client-Side] vers [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
@@ -50,7 +50,7 @@ Le transfert côté serveur ne présente aucun inconvénient temporel. Nous reco
 
 ## Vous Avez DEUX Tâches principales {#you-have-two-main-tasks}
 
-Il y a pas mal d&#39;informations sur cette page, et c&#39;est important, bien sûr. Cependant, il **se résume à deux tâches principales que vous devez effectuer** :
+Il y a pas mal d&#39;informations sur cette page, et c&#39;est important, bien sûr. Cependant, il **se résume à deux choses principales que vous devez faire** :
 
 1. Remplacez votre code par le code [!DNL Client-Side] DIL par [!UICONTROL Server-Side Forwarding].
 1. Basculez le commutateur dans [!DNL Analytics] [!DNL Admin Console] pour début du transfert réel des données (par [!UICONTROL report suite]).
