@@ -1,23 +1,23 @@
 ---
 title: Migration du serveur de suivi vers le transfert côté serveur au niveau de la Report Suite
 description: Cet article et cette vidéo vous montreront comment activer le transfert côté serveur des données Analytics vers l’Audience Manager au niveau d’une suite de rapports plutôt qu’au niveau du serveur de suivi.
-product: audience manager, analytics
+product: audience manager
 feature: Intégration d’Adobe Analytics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: '"Développeur, ingénieur de données"'
-level: Intermédiaire
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Migration de [!UICONTROL Tracking Server] à [!UICONTROL Report Suite] niveau [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
