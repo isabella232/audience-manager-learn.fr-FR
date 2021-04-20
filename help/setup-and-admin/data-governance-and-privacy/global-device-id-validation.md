@@ -1,7 +1,7 @@
 ---
 title: Validation de l’ID de périphérique global
 description: Les identifiants de publicité de périphérique (iDFA, GAID, Roku ID) ont des normes de formatage qui doivent être respectées pour être utilisables dans l’écosystème de publicité numérique. Aujourd’hui, les clients et les partenaires peuvent télécharger des identifiants dans nos sources de données globales dans n’importe quel format sans être avertis de la mise en forme correcte de l’identifiant. Cette fonctionnalité permet de valider les ID de périphérique envoyés aux sources de données globales pour une mise en forme correcte et fournit un message d’erreur lorsque le format des ID est incorrect. Nous prendrons en charge la validation des identifiants iDFA, Google Advertising et Roku au lancement.
-feature: Gouvernance des données et confidentialité
+feature: Data Governance & Privacy
 topics: mobile
 activity: implement
 doc-type: article

@@ -2,13 +2,13 @@
 title: Migration de l’implémentation AAM votre site du DIL côté client vers le transfert côté serveur
 description: Ce didacticiel s’applique à vous si vous avez à la fois Adobe Audience Manager (AAM) et Adobe Analytics, et que vous envoyez actuellement un accès de la page à AAM à l’aide du code "DIL" (Data Integration Library), ainsi qu’un accès de la page à Adobe Analytics. Puisque vous disposez de ces deux solutions et qu’elles font toutes deux partie du Adobe Experience Cloud, vous avez la possibilité de suivre la bonne pratique consistant à activer le transfert côté serveur (SSF), qui permet aux serveurs de collecte de données Analytics de transférer les données d’analyse du site en temps réel vers l’Audience Manager, plutôt que de faire envoyer un accès supplémentaire de la page vers AAM au code côté client. Ce didacticiel vous explique comment passer de l’ancienne mise en oeuvre du DIL côté client à la nouvelle méthode de transfert côté serveur.
 product: audience manager
-feature: Intégration d’Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

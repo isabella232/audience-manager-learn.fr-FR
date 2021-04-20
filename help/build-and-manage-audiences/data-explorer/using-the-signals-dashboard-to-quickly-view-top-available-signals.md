@@ -1,15 +1,15 @@
 ---
 title: Utilisation du Tableau de bord Signals pour Vue rapide Principaux signaux disponibles
 description: En utilisant des tables intégrées et personnalisées sur le tableau de bord Signals dans Data Explorer, vous pouvez rapidement voir les dernières données entrer en Audience Manager et même cliquer pour créer des caractéristiques en fonction des besoins. Bienvenue dans votre nouveau processus plus efficace !
-feature: 'Explorateur de données '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

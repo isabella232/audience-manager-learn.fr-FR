@@ -1,7 +1,7 @@
 ---
 title: Un tableau de deux perceptions - Marques contre Consommateurs
 description: Aujourd'hui, les spécialistes du marketing sont ensevelis dans l'abondance d'informations consacrées aux pratiques identitaires. Et seulement 37% des professionnels du marketing ont déclaré qu'ils étaient très préparés pour un avenir sans cookie, selon des recherches récentes d'Adobe et d'Advanis. Dans cet Adobe webinaire, nous débloquons le niveau de compréhension et de préparation des annonceurs et des éditeurs pour un avenir sans cookie, l'impact sur leurs cas d'utilisation et leur perception de l'écosystème dans son ensemble.
-feature: Présentation
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

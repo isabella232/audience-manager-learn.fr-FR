@@ -1,7 +1,7 @@
 ---
 title: Prise en charge d’IAB TCF 2.0 en Audience Manager
 description: Adobe vous offre les moyens de gérer et de communiquer les choix de confidentialité de vos utilisateurs grâce à la fonctionnalité d’inclusion et au module d’Audience Manager de la prise en charge du Cadre de transparence et de consentement IAB 2.0 (TCF 2.0). Cet article travaille en collaboration avec la documentation pour vous aider à comprendre le module d’Audience Manager à IAB TCF et comment il fonctionne avec l’objet d’inclusion d’Adobe et votre fournisseur de gestion du consentement (CMP).
-feature: '"Gouvernance des données et confidentialité"'
+feature: "Data Governance & Privacy"
 activity: implement
 doc-type: technical video
 team: Technical Marketing

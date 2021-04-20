@@ -1,7 +1,7 @@
 ---
 title: Rapports d'identité Audience
 description: Le Rapports d'identité de l'Audience permet aux clients de fournir un rapport sur la population totale d'un trait ou d'un segment par personne ou par foyer. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports sur les Audiences Manager.
-feature: Fusion de profil
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

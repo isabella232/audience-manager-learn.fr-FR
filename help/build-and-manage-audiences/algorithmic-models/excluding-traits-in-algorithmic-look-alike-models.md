@@ -1,15 +1,15 @@
 ---
 title: Exclusion de caractéristiques dans les modèles algorithmiques (identiques)
 description: 'Dans cette vidéo, vous apprendrez comment et pourquoi exclure des caractéristiques spécifiques (ou groupes de caractéristiques) d''un modèle algorithmique (ressemblance). '
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Intermédiaire
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Création d’une source de données pour les destinations basées sur les personnes
 description: Cette vidéo vous guide tout au long de la création d’une source de données en Audience Manager à utiliser pour les destinations basées sur les personnes.
-feature: '"Destinations basées sur les personnes"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

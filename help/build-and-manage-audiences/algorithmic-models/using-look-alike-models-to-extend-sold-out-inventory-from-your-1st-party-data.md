@@ -1,15 +1,15 @@
 ---
 title: Utilisation de modèles ressemblants pour étendre l'inventaire vendu à partir de vos données propriétaires
 description: Dans ce didacticiel, nous allons passer en revue les étapes à suivre pour configurer et utiliser des modèles ressemblants à un look, de sorte que vous puissiez créer de nouvelles audiences semblables et les vendre comme une extension à votre segment de conversion.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Intermédiaire
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

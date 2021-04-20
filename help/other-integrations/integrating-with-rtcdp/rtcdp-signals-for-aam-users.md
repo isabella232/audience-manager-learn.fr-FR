@@ -1,10 +1,10 @@
 ---
 title: Présentation des signaux dans le CDP en temps réel pour les utilisateurs d'Audience Manager
 description: Cette vidéo est destinée aux utilisateurs d’Audiences Manager qui se rendent sur la plateforme de données client en temps réel (CDP en temps réel) et explique comment les signaux (paires clé-valeur) que vous utilisez dans l’Audience Manager pour créer des caractéristiques sont utilisés dans la plate-forme.
-feature: Intégration de plateformes
-topic: Intégrations
-role: Professionnel, Architecte, Administrateur, Leader
-level: Intermédiaire
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305

@@ -1,13 +1,13 @@
 ---
 title: Vidéos et Tutorials Analytics
 description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
-feature: Présentation
+feature: Overview
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

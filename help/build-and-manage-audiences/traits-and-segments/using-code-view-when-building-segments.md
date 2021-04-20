@@ -1,15 +1,15 @@
 ---
 title: Utilisation de la Vue de code lors de la création de segments
 description: Découvrez comment utiliser la vue de code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, notamment en utilisant la récence et la fréquence.
-feature: 'Segments '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

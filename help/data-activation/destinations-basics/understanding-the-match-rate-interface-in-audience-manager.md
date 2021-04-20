@@ -1,15 +1,15 @@
 ---
 title: Présentation de l'interface de taux de correspondance dans l'Audience Manager
 description: Cette vidéo vous guide tout au long de l’interface de destination, en vous montrant et en expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
-feature: Taux de correspondance
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

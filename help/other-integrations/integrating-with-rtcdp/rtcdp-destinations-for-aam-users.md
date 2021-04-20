@@ -1,10 +1,10 @@
 ---
 title: Présentation des destinations dans le CDP en temps réel pour les utilisateurs d'Audiences Manager
 description: Lorsque vous passez d’Audience Manager à la plateforme de données client en temps réel (CDP en temps réel), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo présente les différents types de destination et leur emplacement dans le CDP en temps réel.
-feature: Intégration de plateformes
-topic: Intégrations
-role: Professionnel, Architecte, Administrateur, Leader
-level: Intermédiaire
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352

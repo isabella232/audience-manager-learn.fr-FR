@@ -1,15 +1,15 @@
 ---
 title: Exemples de règles de fusion de profils et cas d’utilisation
 description: Dans cette vidéo, vous trouverez des exemples de règles de fusion de Profils et de leur signification, ainsi que les cas d’utilisation pour lesquels les règles de fusion de Profils sont résolues.
-feature: Fusion de profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 10 points à prendre en compte pour un Data Management client responsable
 description: Les forces du marché volatiles et les exigences disparates en matière de protection des renseignements personnels des consommateurs peuvent présenter des scénarios intimidants pour le spécialiste du marketing numérique. Pour que les campagnes restent du bon côté des réglementations, les équipes marketing ont besoin de leurs homologues informatiques pour disposer d'un processus rationalisé de vérification de l'exactitude future du processus de gouvernance des données, qui permet idéalement à chacun de suivre et d'appliquer des règles d'utilisation responsable des données des consommateurs. Entendez les témoignages de Adobe et de Scotiabank Digital sur les considérations clés d'un data Management responsable.
-feature: Présentation
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

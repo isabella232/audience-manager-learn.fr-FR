@@ -2,13 +2,13 @@
 title: Migration du serveur de suivi vers le transfert côté serveur au niveau de la Report Suite
 description: Cet article et cette vidéo vous montreront comment activer le transfert côté serveur des données Analytics vers l’Audience Manager au niveau d’une suite de rapports plutôt qu’au niveau du serveur de suivi.
 product: audience manager
-feature: Intégration d’Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Utilisation d'un laboratoire d'Audience pour choisir un DSP
 description: Dans cette vidéo, nous allons créer un test Lab d'Audience, afin que vous puissiez tester les DSP A/B ou d'autres AAM destinations pour déterminer celle qui génère le meilleur retour sur dépenses publicitaires.
-feature: 'Audience Lab '
+feature: Audience Lab
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Intermédiaire
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Présentation de [!UICONTROL Predictive Audiences] en Audience Manager
 description: Dans cette vidéo, nous discuterons de ce que sont les Audiences Manager [!UICONTROL Predictive Audiences], présenterons des détails sur leur fonctionnement et montrerons les cas d'utilisation.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33629.jpg
 kt: 4938
-role: Administrateur
-level: Intermédiaire
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Création d'un modèle similaire à celui d'une première partie dans AAM
 description: Dans cette vidéo, vous apprendrez comment créer un modèle à l'apparence unique de premier niveau, afin que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Intermédiaire
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

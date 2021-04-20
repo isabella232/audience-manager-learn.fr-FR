@@ -1,10 +1,10 @@
 ---
 title: Comprendre les Schémas et XDM dans le CDP en temps réel pour les utilisateurs d'Audience Manager
 description: Au fur et à mesure que vous passez de l’Audience Manager à la plateforme de données clientes en temps réel (CDP en temps réel), vous découvrirez quelques nouveaux concepts et pratiques. Les schémas et XDM tombent dans cette catégorie. Cette vidéo explique ces concepts.
-feature: Intégration de plateformes
-topic: Intégrations
-role: Professionnel, Architecte, Administrateur, Leader
-level: Intermédiaire
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

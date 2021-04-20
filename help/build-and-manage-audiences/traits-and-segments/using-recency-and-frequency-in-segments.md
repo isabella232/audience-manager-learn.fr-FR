@@ -1,15 +1,15 @@
 ---
 title: Utilisation de la récence et de la fréquence dans les segments
 description: Utilisez la récence et la fréquence pour définir les paramètres de segment du nombre de fois où un visiteur doit être admissible pour une caractéristique au cours d’une période donnée. Idéal pour l’affinité du contenu et le plafonnement des fréquences, ainsi que pour d’autres cas d’utilisation.
-feature: 'Segments '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37698.jpg
 kt: 5866
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

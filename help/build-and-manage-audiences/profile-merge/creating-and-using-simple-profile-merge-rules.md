@@ -1,15 +1,15 @@
 ---
 title: Création et utilisation de règles de fusion de Profils simples
 description: Découvrez les règles de fusion de profil et comment les affecter aux segments. Découvrez le profil "Périphérique actuel" par défaut et quand il peut ou doit être utilisé.
-feature: Fusion de profil
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

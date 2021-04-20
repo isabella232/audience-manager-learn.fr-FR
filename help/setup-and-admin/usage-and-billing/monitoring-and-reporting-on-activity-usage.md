@@ -1,15 +1,15 @@
 ---
 title: Surveillance et Rapports de l'utilisation des Activités
 description: Dans cette vidéo, nous allons découvrir comment utiliser le rapport d’utilisation des Activités, y compris les options d’affichage et de téléchargement.
-feature: Utilisation et facturation
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
 topic: Administration
-role: '"Développeur, ingénieur de données, administrateur"'
-level: Début
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Présentation de l'importation de données d'identification personnelle hachée pour les destinations basées sur les personnes
 description: Cette vidéo aborde les points à prendre en compte lorsque vous vous apprêtez à intégrer des informations d’identification personnelle dans l’Audience Manager des destinations basées sur les personnes.
-feature: '"Destinations basées sur les personnes"'
+feature: "People-based Destinations"
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

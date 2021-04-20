@@ -1,15 +1,15 @@
 ---
 title: Amélioration de vos segments AAM avec Trait Recommendations
 description: Avec Trait Recommendations, lorsque vous créez ou modifiez un segment dans Segment Builder, vous obtenez des recommandations sur les caractéristiques supplémentaires que vous pouvez inclure et qui sont similaires aux caractéristiques de la règle de segment.
-feature: 'Segments '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

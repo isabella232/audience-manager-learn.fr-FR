@@ -1,10 +1,10 @@
 ---
 title: Présentation des caractéristiques du CDP en temps réel pour les utilisateurs d'Audience Manager
 description: Lorsque vous passez de l’Audience Manager à la plateforme de données clientes en temps réel, il est utile de comprendre les différences de concepts. Cette vidéo traite des caractéristiques de l'Audience Manager et de l'équivalent dans le CDP en temps réel.
-feature: Intégration de plateformes
-topic: Intégrations
-role: Professionnel, Architecte, Administrateur, Leader
-level: Intermédiaire
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201

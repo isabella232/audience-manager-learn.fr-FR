@@ -1,15 +1,15 @@
 ---
 title: Formatage et insertion de données basées sur des fichiers
 description: Lorsque vous faites entrer votre 1er utilisateur en Audience Manager afin de mieux comprendre et de mieux cible votre client, certaines exigences de formatage s’appliquent aux données. Cette vidéo passe en revue certaines des options principales et vous montre où obtenir plus d'informations.
-feature: Données hors connexion intégrées
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Améliorations des règles de fusion de profils - Prérequis
 description: Présentation de la meilleure façon de se préparer à la publication des améliorations des règles de fusion de Profil.
-feature: Fusion de profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

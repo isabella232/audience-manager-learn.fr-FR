@@ -1,10 +1,10 @@
 ---
 title: Présentation de l'importation des données Web dans le CDP en temps réel pour les utilisateurs d'Audiences Manager
 description: Cette vidéo présente aux utilisateurs d'Audiences Manager les concepts relatifs à l'intégration des données du site Web dans la plateforme de données client en temps réel (CDP en temps réel). Elle présente également un aperçu général de l'emplacement du connecteur de données d'Audience Manager, ainsi que la manière dont les données peuvent être transférées du site Web directement via le SDK Web vers le CDP en temps réel.
-feature: Intégration de plateformes
-topic: Intégrations
-role: Professionnel, Architecte, Administrateur, Leader
-level: Intermédiaire
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

@@ -1,14 +1,14 @@
 ---
 title: Utilisation des gestionnaires de balises pour implémenter l’Audience Manager
 description: Dans cette vidéo, vous apprendrez les bases de l’implémentation de Adobe Audience Manager lors de l’utilisation d’une solution de gestion des balises.
-feature: Concepts de base de l’implémentation
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: '"Développeur, ingénieur de données"'
-level: Intermédiaire
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

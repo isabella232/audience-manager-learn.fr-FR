@@ -1,15 +1,15 @@
 ---
 title: 'Conseils à la clientèle : tirer le meilleur parti des règles de fusion de Profils'
 description: Varun Kalra, consultant multisolution chez Accent, donne des conseils sur le choix et l’utilisation des règles de fusion de Profils (PMR).
-feature: Fusion de profil
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

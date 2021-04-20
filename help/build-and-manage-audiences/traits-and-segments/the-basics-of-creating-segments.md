@@ -1,15 +1,15 @@
 ---
 title: Principes de base de la création de segments
 description: Parcourez les champs de l’interface utilisateur pour créer un segment en Audience Manager.
-feature: 'Segments '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Utilisation des rapports généraux avec des caractéristiques et des segments
 description: Dans cette vidéo, découvrez comment utiliser les rapports généraux en Audience Manager pour obtenir des nombres pour les caractéristiques et les segments.
-feature: '"Rapports généraux et de tendances"'
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

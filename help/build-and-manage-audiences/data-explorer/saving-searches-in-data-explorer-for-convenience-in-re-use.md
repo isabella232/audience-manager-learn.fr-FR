@@ -1,7 +1,7 @@
 ---
 title: Enregistrement des recherches dans le Data Explorer pour plus de commodité lors de la réutilisation
 description: Dans cette vidéo, vous apprendrez comment configurer une recherche dans le Data Explorer, l'exécuter, puis l'enregistrer pour une réutilisation ultérieure. vous pouvez également placer la recherche enregistrée sur le tableau de bord afin qu’elle soit immédiatement disponible lorsque vous accédez à l’application Signals.
-feature: 'Explorateur de données '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

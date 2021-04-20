@@ -1,15 +1,15 @@
 ---
 title: Configuration de l'expiration des caractéristiques avec le paramètre de durée de vie (TTL)
 description: L’un des paramètres lors de la création des caractéristiques est le paramètre "TTL" ou Durée de vie, qui est une expiration de l’adhésion à la caractéristique si vous ne requalifiez pas dans le délai spécifié. Cette vidéo montre comment visualiser et définir cette fonctionnalité.
-feature: 'Caractéristiques '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

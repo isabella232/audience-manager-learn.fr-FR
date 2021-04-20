@@ -1,7 +1,7 @@
 ---
 title: L'avenir du Data Management et l'Environnement changeant
 description: Alors que les forces du marché apportent un changement à notre paysage numérique, les entreprises doivent s'adapter à une nouvelle réalité en matière de gouvernance des données, de résolution des identités, et comment engager des prospects et des visiteurs pseudonymes avec un contenu significatif. À cette fin, de nombreuses voies différentes se dessinent pour exploiter des identificateurs durables avec des systèmes externes afin d'atteindre une échelle. Dans ce webinaire, voyez comment Adobe et la recherche 451 réfléchissent à l'avenir de la technologie et des données pour répondre au nouvel environnement marketing et commencer à préparer votre entreprise pour l'avenir du data Management.
-feature: Présentation
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

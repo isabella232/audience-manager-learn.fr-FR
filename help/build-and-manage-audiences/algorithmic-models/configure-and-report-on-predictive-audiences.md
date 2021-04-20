@@ -1,15 +1,15 @@
 ---
 title: Configurer [!UICONTROL Predictive Audiences] et créer des rapports sur  en Audience Manager
 description: Dans cette vidéo, nous allons parcourir la configuration [!UICONTROL Predictive Audiences] dans l'interface d'Audience Manager. Nous verrons également les rapports qui montrent les résultats du modèle.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
-role: Administrateur
-level: Intermédiaire
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

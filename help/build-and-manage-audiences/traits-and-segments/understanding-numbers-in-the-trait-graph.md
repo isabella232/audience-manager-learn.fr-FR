@@ -1,15 +1,15 @@
 ---
 title: Présentation des nombres dans le graphique de caractéristiques
 description: Obtenez quelques conseils sur la compréhension des nombres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
-feature: 'Caractéristiques '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
