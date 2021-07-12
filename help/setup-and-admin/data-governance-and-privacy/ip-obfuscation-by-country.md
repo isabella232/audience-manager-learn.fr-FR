@@ -1,27 +1,26 @@
 ---
 title: Obscurcissement d’IP par pays en Audience Manager
-description: L’Audience Manager permet aux clients d’activer l’obscurcissement des adresses IP dans l’interface utilisateur en libre-service, à l’échelle mondiale ou par pays. Cette vidéo vous guide tout au long de la configuration.
-feature: "Data Governance & Privacy"
+description: Audience Manager offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
+feature: '"Gouvernance et confidentialité des données"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# Obscurcissement d’IP par pays en Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-# Obscurcissement d&#39;IP par pays en Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
-
-L’Audience Manager permet aux clients d’activer l’obscurcissement des adresses IP dans l’interface utilisateur en libre-service, à l’échelle mondiale ou par pays. Cette vidéo vous guide tout au long de la configuration.
+Audience Manager offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
