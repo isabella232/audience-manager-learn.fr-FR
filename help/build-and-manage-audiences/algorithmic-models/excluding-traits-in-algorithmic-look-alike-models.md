@@ -1,33 +1,32 @@
 ---
-title: Exclusion de caractéristiques dans les modèles algorithmiques (identiques)
-description: 'Dans cette vidéo, vous apprendrez comment et pourquoi exclure des caractéristiques spécifiques (ou groupes de caractéristiques) d''un modèle algorithmique (ressemblance). '
-feature: Algorithmic Models
+title: Exclusion de caractéristiques dans les modèles algorithmiques (analogue)
+description: 'Dans cette vidéo, vous apprendrez comment et pourquoi exclure des caractéristiques (ou groupes de) spécifiques d’un modèle algorithmique (analogue). '
+feature: Modèles algorithmiques
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
+# Exclusion de [!UICONTROL Traits] dans l’algorithme (analogue) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
-# Exclusion de [!UICONTROL Traits] dans Algorithmique (Apparence) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
-
-Dans cette vidéo, vous apprendrez comment et pourquoi exclure des groupes [!UICONTROL traits] spécifiques d&#39;un algorithme (apparence) [!UICONTROL Model].
+Dans cette vidéo, vous découvrirez comment et pourquoi exclure des groupes [!UICONTROL traits] spécifiques d’un algorithme (analogue) [!UICONTROL Model].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 Cas d’utilisation de cette fonctionnalité :
 
-* [!UICONTROL traits] très courant, tel que le visiteur du site [!UICONTROL traits] bifurque [!UICONTROL model] ce qui ne sera pas utile pour trouver une audience de qualité identique. Les clients n&#39;ont plus à créer un [!UICONTROL data source] distinct et à stocker le [!UICONTROL traits] commun dans le nouveau [!UICONTROL data source], mais peuvent maintenant simplement les exclure.
-* Il existe maintenant un moyen d&#39;utiliser un sous-ensemble [!UICONTROL traits] d&#39;un [!UICONTROL third party], tel que des intérêts comportementaux, plutôt que toutes les informations d&#39;un [!UICONTROL model]. [!UICONTROL Third parties] en général, envoyer beaucoup de données qui pourraient ne pas être utiles pour le client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d&#39;un point de vue juridique dans la modélisation. Vous pouvez maintenant exclure [!UICONTROL traits] ou des dossiers de [!UICONTROL traits] que vous ne souhaitez pas inclure dans [!UICONTROL model].
+* [!UICONTROL traits] très courant, tel que [!UICONTROL traits] le biais [!UICONTROL model] du visiteur du site, qui ne sera pas utile pour trouver une audience analogue de qualité. Les clients n’ont plus besoin de créer une [!UICONTROL data source] distincte et de stocker la [!UICONTROL traits] commune dans le nouveau [!UICONTROL data source], mais peuvent désormais simplement les exclure.
+* Il existe désormais un moyen d’utiliser un sous-ensemble [!UICONTROL traits] d’une [!UICONTROL third party], tel que des intérêts comportementaux, plutôt que toutes les informations d’une [!UICONTROL model]. [!UICONTROL Third parties] en général, envoyez beaucoup de données qui peuvent ne pas être utiles au client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d’un point de vue juridique dans la modélisation. Vous pouvez maintenant exclure [!UICONTROL traits] ou les dossiers de [!UICONTROL traits] que vous ne souhaitez pas inclure dans la balise [!UICONTROL model].
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html).
