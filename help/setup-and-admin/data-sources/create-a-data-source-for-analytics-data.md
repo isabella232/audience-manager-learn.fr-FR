@@ -8,21 +8,20 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
-translation-type: tm+mt
-source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 50%
 
 ---
 
-# Créer [!UICONTROL Data Source] pour les données [!DNL Analytics] {#create-a-data-source-for-analytics-data}
+# Créer des [!UICONTROL Data Source] données pour [!DNL Analytics] {#create-a-data-source-for-analytics-data}
 
-Dans cette vidéo, nous allons découvrir les étapes, y compris des conseils et astuces, de la création d&#39;un [!UICONTROL Data Source] dans AAM que vous pouvez utiliser pour les données qui arrivent en direct à partir d&#39;une solution d&#39;analyse, comme Adobe Analytics. Cette opération doit être effectuée avant la création de [!UICONTROL traits] pour les données d’analyse.
+Dans cette vidéo, nous examinons les étapes, y compris des conseils et astuces, de la création d’un [!UICONTROL Data Source] dans AAM que vous pouvez utiliser pour les données qui arrivent en direct à partir d’une solution d’analyse, telle qu’Adobe Analytics. Cela doit être fait avant de créer [!UICONTROL traits] pour les données d’analyse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html).
