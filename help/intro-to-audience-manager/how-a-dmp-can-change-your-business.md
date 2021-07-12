@@ -1,27 +1,26 @@
 ---
-title: Comment un DMP peut changer votre entreprise
-description: Les plateformes de data Management sont le sujet de conversation du monde de la technologie en ce moment, mais qu'est-ce qu'elles sont et, plus important encore, comment peuvent-elles vous aider en tant que marketeurs à réaliser vos objectifs ? Au cours de cette session, nous expliquerons ce qu'est une DMP et présenterons des études de cas dans le monde réel où les clients ont vu des retours incroyables sur leur investissement, depuis des achats de médias plus efficaces jusqu'à des conversions significativement plus importantes.
-feature: Overview
+title: Comment une plateforme de gestion des données peut changer votre activité
+description: Les plateformes de gestion des données sont actuellement le sujet de conversation du monde technologique, mais qu’est-ce qu’elles et surtout, comment peuvent-elles vous aider à réaliser vos objectifs avec les marketeurs ? Au cours de cette session, nous expliquerons ce qu’est une plateforme de gestion des données et nous montrerons quelques études de cas concrètes dans lesquelles les clients ont vu des rendements incroyables sur leur investissement, depuis les achats de médias plus efficaces jusqu’à des conversions significativement plus élevées.
+feature: Présentation
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Comment une plateforme de gestion des données peut changer votre activité
 
-# Comment un DMP peut changer votre entreprise
+[!DNL Data Management Platforms] est-ce que le monde de la technologie est en ce moment, mais qu&#39;est-ce qu&#39;ils sont et surtout, comment peuvent-ils vous aider en tant que marketeurs à réaliser vos objectifs ?
 
-[!DNL Data Management Platforms] est-ce que l&#39;on parle du monde de la technologie en ce moment, mais qu&#39;est-ce qu&#39;ils sont et, plus important encore, comment peuvent-ils vous aider en tant que spécialistes du marketing à réaliser vos objectifs ?
-
-Au cours de cette session, nous expliquerons ce qu&#39;est une DMP et présenterons des études de cas dans le monde réel où les clients ont vu des retours incroyables sur leur investissement, depuis des achats de médias plus efficaces jusqu&#39;à des conversions significativement plus importantes.
+Au cours de cette session, nous expliquerons ce qu’est une plateforme de gestion des données et nous montrerons quelques études de cas concrètes dans lesquelles les clients ont vu des rendements incroyables sur leur investissement, depuis les achats de médias plus efficaces jusqu’à des conversions significativement plus élevées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
