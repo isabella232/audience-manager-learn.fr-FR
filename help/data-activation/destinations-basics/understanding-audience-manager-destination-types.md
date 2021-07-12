@@ -1,30 +1,29 @@
 ---
-title: Présentation des types de destination des Audiences Manager
-description: Cette vidéo vous guidera dans les différents types de destinations de Adobe Audience Manager et vous donnera des exemples d'utilisation de chacune d'elles.
-feature: Destination Basics
+title: Présentation des types de destinations d’Audience Manager
+description: Cette vidéo vous guide tout au long des différents types de destinations dans Adobe Audience Manager et vous donne des exemples d’utilisation de chacune d’elles.
+feature: Concepts de base des destinations
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
+# Présentation des types d’Audience Manager [!UICONTROL Destination]
 
-# Présentation des types d&#39;Audience Manager [!UICONTROL Destination]
-
-Cette vidéo vous permettra de découvrir les différents types de [!UICONTROL destinations] en Adobe Audience Manager et vous donnera des exemples d&#39;utilisation de chacun.
+Cette vidéo vous guidera tout au long des différents types de [!UICONTROL destinations] dans Adobe Audience Manager et vous montrera à quel moment vous utiliserez chacun d’eux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Vous pouvez télécharger une liste de partenaires serveur à serveur [!UICONTROL destination] [ICI](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
+Vous pouvez télécharger une liste de partenaires serveur à serveur [!UICONTROL destination] [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
 
-Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
