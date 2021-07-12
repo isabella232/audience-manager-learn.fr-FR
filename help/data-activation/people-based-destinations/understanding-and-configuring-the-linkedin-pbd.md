@@ -1,30 +1,29 @@
 ---
-title: Présentation et configuration de la destination basée sur les personnes LinkedIn
+title: Présentation et configuration de la destination basée sur les personnes de LinkedIn
 description: Cette vidéo vous guide tout au long des concepts et étapes de création d’une destination basée sur les personnes vers LinkedIn. Il s’appuie sur les vidéos et la documentation supplémentaires concernant les destinations basées sur les personnes.
-feature: "People-based Destinations"
+feature: '"Destinations basées sur les personnes"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
+# Comprendre et configurer le [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-# Présentation et configuration de [!DNL LinkedIn] [!UICONTROL People-Based Destination]
-
-Cette vidéo vous guide tout au long des concepts et étapes de création d&#39;une [!UICONTROL People-Based Destination] à [!DNL LinkedIn]. Il s&#39;appuie sur les vidéos et la documentation supplémentaires concernant [!UICONTROL People-Based Destinations].
+Cette vidéo vous guide tout au long des concepts et étapes de création d’une [!UICONTROL People-Based Destination] à [!DNL LinkedIn]. Il s’appuie sur les vidéos et la documentation supplémentaires concernant [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Vous pouvez également trouver d&#39;autres vidéos concernant [!UICONTROL People-Based Destinations] [ICI](https://adobe.ly/aamlearnpbd).
+Vous trouverez également d’autres vidéos concernant [!UICONTROL People-Based Destinations] [ICI](https://adobe.ly/aamlearnpbd).
