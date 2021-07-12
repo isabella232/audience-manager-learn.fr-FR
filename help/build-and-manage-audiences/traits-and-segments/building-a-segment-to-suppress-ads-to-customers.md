@@ -1,26 +1,25 @@
 ---
-title: Création d'un segment pour supprimer des publicités aux clients
-description: Lors de la création de campagnes marketing, en particulier pour atteindre les campagnes d'extension d'audience ou d'extension d'extension, vous pouvez exclure vos clients actuels afin de pouvoir les commercialiser différemment. Cette vidéo présente les options permettant de créer des segments afin d’exclure les personnes qui ont déjà effectué une conversion en statut de client.
-feature: Segments
+title: Création d’un segment pour supprimer des publicités destinées aux clients
+description: Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
+feature: 'Segments '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36494.jpg
 kt: 5804
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: e142b202-612e-4be1-88e4-4fb897238b86
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# Création d’un segment pour supprimer des publicités destinées aux clients
 
-# Création d&#39;un segment pour supprimer des publicités aux clients
-
-Lors de la création de campagnes marketing, en particulier pour atteindre les campagnes d&#39;extension d&#39;audience ou d&#39;extension d&#39;extension, vous pouvez exclure vos clients actuels afin de pouvoir les commercialiser différemment. Cette vidéo présente les options permettant de créer des segments afin d’exclure les personnes qui ont déjà effectué une conversion en statut de client.
+Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
