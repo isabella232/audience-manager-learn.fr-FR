@@ -1,26 +1,25 @@
 ---
-title: Création et utilisation de règles de fusion de Profils simples
-description: Découvrez les règles de fusion de profil et comment les affecter aux segments. Découvrez le profil "Périphérique actuel" par défaut et quand il peut ou doit être utilisé.
-feature: Profile Merge
+title: Création et utilisation de stratégies de fusion de profils simples
+description: Découvrez les règles de fusion de profils et comment les affecter aux segments. Découvrez le profil par défaut "Appareil actuel" et quand il peut/doit être utilisé.
+feature: Fusion des profils
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: de4910a5-9e89-4b38-9cf3-34c5fe658632
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
+# Création et utilisation de simples [!UICONTROL Profile Merge Rules]
 
-# Création et utilisation d&#39;une méthode simple [!UICONTROL Profile Merge Rules]
-
-Découvrez les règles de fusion de profil et comment les affecter aux segments. Découvrez le profil &quot;Périphérique actuel&quot; par défaut et quand il peut ou doit être utilisé.
+Découvrez les règles de fusion de profils et comment les affecter aux segments. Découvrez le profil par défaut &quot;Appareil actuel&quot; et quand il peut/doit être utilisé.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
