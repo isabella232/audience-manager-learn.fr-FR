@@ -1,26 +1,25 @@
 ---
-title: Création d’une source de données sur plusieurs périphériques et authentification
-description: Pour que vos données de gestion de la relation client propriétaires soient intégrées à l’Audience Manager afin d’améliorer la cible de vos clients, vous devez d’abord créer une source de données sur plusieurs périphériques afin de stocker les identifiants et les données de gestion de la relation client. Vous pouvez ainsi configurer la méthode setCustomerIDs() dans Launch pour les connexions.
-feature: Data Sources
+title: Création d’une source de données multi-appareils et authentification
+description: Lorsque vous souhaitez importer vos données CRM propriétaires dans l’Audience Manager afin de mieux cibler vos clients, vous devez d’abord créer une source de données multi-appareils pour stocker les identifiants et données CRM. Cela vous explique comment procéder et comment configurer la méthode setCustomerIDs() dans Launch pour les connexions.
+feature: Sources de données
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331006.jpg
 kt: 7025
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
 
+# Création d’une source de données multi-appareils et authentification
 
-# Création d’une source de données sur plusieurs périphériques et authentification
-
-Pour que vos données de gestion de la relation client propriétaires soient intégrées à l’Audience Manager afin d’améliorer la cible de vos clients, vous devez d’abord créer une source de données sur plusieurs périphériques afin de stocker les identifiants et les données de gestion de la relation client. Ceci vous explique comment faire cela et configurer la méthode setCustomerIDs() dans l’Experience Platform Launch pour les connexions.
+Lorsque vous souhaitez importer vos données CRM propriétaires dans l’Audience Manager afin de mieux cibler vos clients, vous devez d’abord créer une source de données multi-appareils pour stocker les identifiants et données CRM. Cela vous explique comment procéder et comment configurer la méthode setCustomerIDs() dans Experience Platform Launch pour les connexions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
