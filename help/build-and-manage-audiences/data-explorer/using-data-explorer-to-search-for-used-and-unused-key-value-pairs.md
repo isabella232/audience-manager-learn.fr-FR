@@ -1,30 +1,29 @@
 ---
-title: Utilisation du Data Explorer pour rechercher des paires clé/valeur utilisées et non utilisées dans AAM
-description: Dans le travail quotidien en Audience Manager, vous devrez peut-être rapidement déterminer si une caractéristique a été créée à partir d’une paire clé/valeur spécifique. Cette vidéo vous montre comment trouver avec un Data Explorer.
-feature: Data Explorer
+title: Utilisation de Data Explorer pour rechercher des paires clé/valeur utilisées et non utilisées dans AAM
+description: Dans le cadre d’un travail quotidien en Audience Manager, vous devrez peut-être déterminer rapidement si une caractéristique a été créée à partir d’une paire clé/valeur spécifique. Cette vidéo vous montre comment découvrir avec Data Explorer.
+feature: 'Explorateur de données '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
 
-
 # Utilisation de [!DNL Data Explorer] pour rechercher des paires clé/valeur utilisées et non utilisées dans AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-Dans le travail quotidien en Audience Manager, vous devrez peut-être rapidement déterminer si [!UICONTROL trait] a été créé à partir d&#39;une paire clé/valeur spécifique. Cette vidéo vous explique comment utiliser [!DNL Data Explorer].
+Dans le cadre d’un travail quotidien en Audience Manager, vous devrez peut-être déterminer rapidement si une [!UICONTROL trait] a été créée à partir d’une paire clé/valeur spécifique. Cette vidéo vous explique comment utiliser [!DNL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Pour savoir si un [!UICONTROL signal] a été créé dans un [!UICONTROL trait], vous n&#39;avez plus à télécharger un fichier [!DNL BAAAM] ainsi que le rapport [!UICONTROL Unused Signals]. Vous pouvez maintenant simplement rechercher cette paire clé/valeur dans [!DNL Data Explorer], AKA l&#39;application [!UICONTROL Signals], dans AAM, et trouver des paires clé/valeur qui sont dans [!UICONTROL traits] et celles qui ne le sont pas, toutes dans la même liste. Gain de temps !
+Pour savoir si une balise [!UICONTROL signal] a été créée dans une balise [!UICONTROL trait], il n’est plus nécessaire de télécharger un fichier [!DNL BAAAM] ainsi que le rapport [!UICONTROL Unused Signals]. Désormais, vous pouvez simplement rechercher cette paire clé/valeur dans [!DNL Data Explorer], AKA l’application [!UICONTROL Signals], dans AAM, et rechercher les paires clé/valeur qui se trouvent dans [!UICONTROL traits] et celles qui ne le sont pas, toutes dans la même liste. Génial gain de temps !
 
-Pour plus d&#39;informations sur [!DNL Data Explorer], consultez la [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Pour plus d’informations sur [!DNL Data Explorer], consultez la [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
