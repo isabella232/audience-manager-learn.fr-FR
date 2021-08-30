@@ -1,7 +1,7 @@
 ---
 title: Surveillance et création de rapports sur l’utilisation de l’activité
 description: Dans cette vidéo, nous allons découvrir comment utiliser le rapport Utilisation de l’activité, y compris les options d’affichage et de téléchargement.
-feature: Utilisation et facturation
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 1%
+source-wordcount: '61'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Dans cette vidéo, nous allons découvrir comment utiliser [!DNL Activity Usage 
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

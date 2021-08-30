@@ -1,7 +1,7 @@
 ---
 title: Audience Manager - Présentation d’un DMP
 description: Découvrez les principaux défis liés à la personnalisation cross-canal et comment Adobe Audience Manager alimente le parcours client. Identifiez également les types de données qui peuvent être intégrés dans Audience Manager et identifiez les partenaires d’éco-système ad-tech intégrés à Audience Manager.
-feature: Présentation
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,10 +12,10 @@ topic: Architecture
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Découvrez les principaux défis liés à la personnalisation cross-canal et com
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
