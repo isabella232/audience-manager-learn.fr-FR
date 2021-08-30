@@ -2,7 +2,7 @@
 title: Migration du serveur de suivi vers le transfert côté serveur au niveau de la suite de rapports
 description: Cet article et cette vidéo vous montrent comment activer le transfert côté serveur des données Analytics pour l’Audience Manager au niveau de la suite de rapports plutôt qu’au niveau du serveur de suivi.
 product: audience manager
-feature: Intégration d’Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Si vous ne savez pas si [!DNL tracking server forwarding] est activé pour vous,
 
 ## [!UICONTROL Report Suite]-Niveau [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-L’un des plus grands avantages du passage au transfert [!UICONTROL report suite] à partir du transfert [!UICONTROL tracking server] est que vous pourrez désormais utiliser &quot;Audience Analytics&quot;, qui est la capacité de transférer l’Audience Manager [!UICONTROL segments] vers Adobe Analytics pour une analyse [!UICONTROL segment] détaillée. Cette fonctionnalité exceptionnelle n’est PAS prise en charge si vous utilisez toujours le transfert [!UICONTROL tracking server] et non le transfert [!UICONTROL report suite]. Pour plus d’informations sur l’Audience Analytics, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+L’un des plus grands avantages du passage au transfert [!UICONTROL report suite] à partir du transfert [!UICONTROL tracking server] est que vous pourrez désormais utiliser &quot;Audience Analytics&quot;, qui est la capacité de transférer l’Audience Manager [!UICONTROL segments] vers Adobe Analytics pour une analyse [!UICONTROL segment] détaillée. Cette fonctionnalité exceptionnelle n’est PAS prise en charge si vous utilisez toujours le transfert [!UICONTROL tracking server] et non le transfert [!UICONTROL report suite]. Pour plus d’informations sur l’Audience Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

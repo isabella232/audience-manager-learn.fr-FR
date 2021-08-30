@@ -1,7 +1,7 @@
 ---
 title: Augmentation du retour sur investissement en utilisant des modèles algorithmiques (analogue) dans l’Audience Manager
 description: La puissance réelle de la modélisation look-alike d’Audience Manager réside dans le fait que vous cherchez à étendre votre audience de base par rapport à un nouvel ensemble d’utilisateurs de qualité provenant de sources de données tierces et de deuxième niveau. Dans ce tutoriel, découvrez les étapes de création d’un modèle à partir de ces données.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ En outre, lorsque vous utilisez des événements Adobe Analytics pour créer [!U
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**REMARQUE :** Dans la vidéo ci-dessus, l’exemple que je vous montre suppose que vous disposez d’Adobe Analytics. Ce n&#39;est évidemment pas le cas. Si vous disposez de Google Analytics (GA), nous disposons d’un module que vous pouvez utiliser pour envoyer des données dans AAM (voir la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)), et si votre activité de conversion sur votre site est envoyée à AAM par GA, vous pouvez créer votre conversion [!UICONTROL trait] à partir de ce module. Si vous disposez d’une solution d’analyse différente (ou d’aucune solution d’analyse), vous pouvez toujours envoyer des données à AAM par l’intermédiaire de notre code de DIL et de la fonction `submit`, etc. (voir la [documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Créez ensuite la conversion [!UICONTROL trait] en fonction des données envoyées lorsque l’activité de conversion est effectuée sur le site.
+**REMARQUE :** Dans la vidéo ci-dessus, l’exemple que je vous montre suppose que vous disposez d’Adobe Analytics. Ce n&#39;est évidemment pas le cas. Si vous disposez de Google Analytics (GA), nous disposons d’un module que vous pouvez utiliser pour envoyer des données dans AAM (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)), et si votre activité de conversion sur votre site est envoyée à AAM par GA, vous pouvez créer votre conversion [!UICONTROL trait] à partir de ce module. Si vous disposez d’une solution d’analyse différente (ou d’aucune solution d’analyse), vous pouvez toujours envoyer des données à AAM par l’intermédiaire de notre code de DIL et de la fonction `submit`, etc. (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Créez ensuite la conversion [!UICONTROL trait] en fonction des données envoyées lorsque l’activité de conversion est effectuée sur le site.
 
 ## Créer un look-alike [!UICONTROL Model] à partir des données [!UICONTROL Second Party] ou [!UICONTROL Third Party] {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

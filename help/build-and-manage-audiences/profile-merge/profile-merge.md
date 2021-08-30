@@ -1,7 +1,7 @@
 ---
 title: Vidéos et Tutorials de fusion de profils
 description: Cette section contient des vidéos et des tutoriels sur les fonctionnalités de fusion de profils, telles que les règles de fusion de profils.
-feature: Fusion des profils
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Cette section contient les vidéos suivantes pour [!UICONTROL Profile Merge Rule
 * [Interprétation des rapports d’identité d’audience](interpret-audience-identity-reporting.md)
 * [Présentation des mesures sur plusieurs appareils en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Ces vidéos peuvent être utilisées avec la [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Ces vidéos peuvent être utilisées avec la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
