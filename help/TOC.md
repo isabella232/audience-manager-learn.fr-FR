@@ -1,12 +1,12 @@
 ---
-user-guide-title: Tutoriels Adobe Audience Manager
+user-guide-title: Tutoriels sur Adobe Audience Manager
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels d’Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 4%
    + Réalisation de la valeur {#value-realization}
       + [Mesurer le ROI dans un cas d’utilisation de suppression de clients](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Nouvelles et tendances du secteur {#industry}
-   + [L’avenir de la gestion des données et l’environnement en mutation](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [10 considérations relatives à une gestion responsable des données clients](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [Un tableau de deux perceptions : les marques et les consommateurs](industry/brands-vs-consumers.md)
+   + [L’avenir de la gestion des données et l’environnement en mutation](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [10 considérations relatives à une gestion responsable des données clients](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [Un tableau de deux perceptions : les marques et les consommateurs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Évolution de votre centre d’excellence d’audience](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Amélioration des expériences avec les profils client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configuration et administration {#setup-and-admin}
    + Sources de données {#data-sources}
       + [Création d’une source de données pour les données Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
