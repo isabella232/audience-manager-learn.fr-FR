@@ -3,7 +3,8 @@ user-guide-title: Tutoriels sur Adobe Audience Manager
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels d’Audience Manager
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -14,7 +15,7 @@ ht-degree: 4%
 # Tutoriels d’Audience Manager {#tutorials}
 
 + [Présentation](overview.md)
-+ Introduction à l’Audience Manager {#intro-to-audience-manager}
++ Présentation de l’Audience Manager {#intro-to-audience-manager}
    + [Comment une plateforme de gestion des données peut changer votre activité](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Présentation d’un DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Cas d’utilisation des Audiences Manager](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -44,7 +45,7 @@ ht-degree: 4%
 + Implémentation web {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Mise à jour vers DIL version 8.0 (ou ultérieure)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF (transfert côté serveur) {#ssf}
+   + Transfert côté serveur (SSF) {#ssf}
       + [Mise en oeuvre dans les sites web avec Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migration de l’implémentation AAM de votre site du DIL côté client vers le transfert côté serveur](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migration du serveur de suivi vers le transfert côté serveur au niveau de la suite de rapports](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
@@ -55,15 +56,15 @@ ht-degree: 4%
    + [Formatage et ingestion de données basées sur des fichiers](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Procédure d’ingestion de données basées sur des fichiers](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implémentation mobile {#mobile-implementation}
-   + [Mise en oeuvre dans les applications Swift pour iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Mise en oeuvre dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Mise en oeuvre dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Mise en oeuvre dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Données d’achat {#buying-data}
+   + Acheter des données {#buying-data}
       + [Création de rapports sur l’utilisation des données des deuxième et troisième niveaux en Audience Marketplace au niveau du segment](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Chargement en masse de l’utilisation des données dans Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Utilisation de filtres et de Recommendations pour choisir des données tierces dans Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + Vendre des données {#selling-data}
+   + Vente de données {#selling-data}
       + [Commercialisation des audiences détenues sur Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Création et gestion des audiences {#build-and-manage-audiences}
    + Explorateur de données {#data-explorer}
@@ -101,8 +102,8 @@ ht-degree: 4%
       + [Présentation des nombres dans le graphique de segments](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Conseils aux clients - Bonnes pratiques relatives aux caractéristiques et aux segments](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modèles algorithmiques {#algorithmic-models}
-      + [Compréhension de [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurer et créer des rapports sur [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Compréhension [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configuration et création de rapports sur [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Création d’un modèle analogue propriétaire](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclusion de caractéristiques dans les modèles algorithmiques (analogue)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Augmentation du retour sur investissement en utilisant des modèles algorithmiques (analogue)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -120,7 +121,7 @@ ht-degree: 4%
       + [Impact des améliorations apportées aux règles de fusion de profils sur la segmentation, l’activation et la création de rapports](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
       + [Interprétation des rapports d’identité d’audience](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
       + [Présentation des mesures sur plusieurs appareils en Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
-      + [Conseils client - Tirer le meilleur parti des règles de fusion de profils](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
+      + [Conseils à la clientèle - Tirer le meilleur parti des règles de fusion de profils](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Activation des données {#data-activation}
    + Concepts de base des destinations {#destinations-basics}
       + [Présentation des types de destinations d’Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
@@ -148,7 +149,7 @@ ht-degree: 4%
    + [Présentation des audiences connexes avec les rapports de chevauchement](reports/understand-related-audiences-with-overlap-reports.md)
    + [Utilisation des rapports d’Audience Optimization pour comprendre les performances multimédia](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Autres intégrations {#other-integrations}
-   + Intégration à la plateforme de données clients en temps réel {#integrating-with-rtcdp}
+   + Intégration à Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Ingestion de données à l’aide du connecteur de données Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Présentation de l’ingestion de données propriétaires dans la plateforme de données clients en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Présentation de l’ingestion des données web dans la plateforme des données clients en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
