@@ -1,6 +1,6 @@
 ---
-title: Vidéos et Tutorials sur les destinations basées sur les personnes
-description: Cette section contient des vidéos et des tutoriels pour des rubriques relatives aux destinations basées sur les personnes.
+title: Vidéos et tutoriels sur les destinations basées sur les personnes
+description: Découvrez les destinations basées sur les personnes dans Audience Manager. Découvrez comment appliquer la segmentation aux données en ligne et hors ligne pour créer des segments d’audience basés sur des identifiants hachés, tels que des adresses électroniques, etc.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -10,27 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL People-Based Destinations] Vidéos et Tutorials
+# Vidéos et tutoriels sur les destinations basées sur les personnes
 
-[!UICONTROL People-Based Destinations] vous permettent d’appliquer une segmentation sur des données en ligne et hors ligne afin de créer des segments d’audience basés sur des identifiants hachés, tels que des adresses électroniques. Ensuite, vous pouvez envoyer ces segments vers des plateformes sociales telles que [!DNL Facebook] ou [!DNL LinkedIn], où vous pouvez cibler votre audience.
+Les destinations basées sur les personnes vous permettent d’appliquer une segmentation sur des données en ligne et hors ligne afin de créer des segments d’audience basés sur des identifiants hachés, tels que des adresses électroniques. Vous pouvez ensuite envoyer ces segments aux plateformes sociales telles que [!DNL Facebook] ou [!DNL LinkedIn], où vous pouvez cibler votre audience.
 
-Cette section contient des vidéos et des tutoriels pour des rubriques relatives à [!UICONTROL People-Based Destinations]. Ils ont été répertoriés délibérément dans cet ordre, car vous parcourez le flux/processus de configuration de [!UICONTROL People-Based Destinations] :
+Cette section contient des vidéos et des tutoriels pour des rubriques relatives aux destinations basées sur les personnes. Ils ont été répertoriés dans cet ordre délibérément, car vous parcourez le flux/processus de configuration des destinations basées sur les personnes :
 
 * [Flux de données de destinations basées sur les personnes](people-based-destinations-data-flow.md)
 * [Création d’une source de données pour les destinations basées sur les personnes](creating-a-data-source-for-people-based-destinations.md)
-* [Présentation de l’ingestion des données personnelles identifiables hachées pour les destinations basées sur les personnes](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-* [Ingestion de données personnelles identifiables hachées pour les destinations basées sur les personnes](ingesting-hashed-pii-for-people-based-destinations.md)
+* [Présentation de l’ingestion de données PII hachées pour les destinations basées sur les personnes](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+* [Ingestion de PII hachées pour les destinations basées sur les personnes](ingesting-hashed-pii-for-people-based-destinations.md)
 * [Utilisation de setCustomerIDs() pour ingérer et hacher des PII en tant qu’ID déclaré](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
 * [Configuration des règles de fusion de profils pour les destinations basées sur les personnes](configuring-profile-merge-rules-for-people-based-destinations.md)
-* [Création de segments pour des destinations basées sur les personnes](creating-segments-for-people-based-destinations.md)
+* [Création de segments pour les destinations basées sur les personnes](creating-segments-for-people-based-destinations.md)
 * [Création et configuration de destinations basées sur les personnes](create-and-configure-people-based-destinations.md)
 * [Présentation et configuration de la destination basée sur les personnes de LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Ces vidéos peuvent être utilisées avec la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Ces vidéos peuvent être utilisées conjointement avec la variable [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

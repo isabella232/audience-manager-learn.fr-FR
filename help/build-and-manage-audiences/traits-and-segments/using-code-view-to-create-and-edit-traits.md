@@ -1,7 +1,7 @@
 ---
 title: Utilisation de l’affichage du code pour créer et modifier des caractéristiques
 description: Découvrez comment utiliser l’affichage du code lors de la création de nouvelles caractéristiques ou de la modification de caractéristiques existantes. L’affichage du code est une alternative au Générateur d’expression lors de la définition de l’expression de caractéristiques.
-feature: 'Caractéristiques '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6441
 role: User
 level: Intermediate
 exl-id: 763bbc25-57f1-456a-b94c-7c5c1ec1e3bb
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 0%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Ingestion de données personnelles identifiables hachées pour les destinations basées sur les personnes
+title: Ingestion de PII hachées pour les destinations basées sur les personnes
 description: Dans cette vidéo, apprenez à mettre en forme une synchronisation des identifiants basée sur un fichier, afin d’associer vos identifiants client (identifiants CRM) à des adresses électroniques hachées.
-feature: '"Destinations basées sur les personnes"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: technical video
@@ -11,15 +11,15 @@ kt: 3341
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9e042c20-ddca-4ead-824d-8bbcd718fab9
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Ingestion des informations d’identification personnelles hachées pour [!UICONTROL People-Based Destinations]
+# Ingestion de PII hachées pour les destinations basées sur les personnes
 
-Dans cette vidéo, apprenez à mettre en forme une synchronisation des identifiants basée sur un fichier, afin d’associer vos identifiants client (identifiants CRM) à des adresses électroniques hachées. Vous pourrez ainsi envoyer les adresses électroniques hachées à [!UICONTROL People-Based Destinations], par exemple [!DNL Facebook].
+Dans cette vidéo, apprenez à mettre en forme une synchronisation des identifiants basée sur un fichier, afin d’associer vos identifiants client (identifiants CRM) à des adresses électroniques hachées. Vous pourrez ainsi envoyer les adresses électroniques hachées aux destinations basées sur les personnes, telles que [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

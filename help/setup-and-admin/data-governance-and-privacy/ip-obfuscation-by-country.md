@@ -1,7 +1,7 @@
 ---
-title: Obscurcissement d’IP par pays en Audience Manager
-description: Audience Manager offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
-feature: '"Gouvernance et confidentialité des données"'
+title: Obscurcissement des adresses IP par pays
+description: Découvrez l’obscurcissement des adresses IP par pays en Audience Manager. Cette application offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
+feature: Data Governance & Privacy
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2866
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 103643ff-c006-4111-b469-901271faaf9d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

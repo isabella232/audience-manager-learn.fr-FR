@@ -1,6 +1,6 @@
 ---
-title: Rapports d'identité Audience
-description: Le Rapports d'identité de l'Audience permet aux clients de fournir un rapport sur la population totale d'un trait ou d'un segment par personne ou par foyer. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports sur les Audiences Manager.
+title: Rapports d’identité d’audience
+description: Découvrez les rapports d’identité d’audience. Ce type de reporting en Audience Manager vous permet de générer des rapports sur la population totale d’une caractéristique ou d’un segment par personne ou par définition de l’identité au sein d’un foyer.
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] Création de rapports
+# Rapports d’identité d’audience
 
-[!DNL Audience Identity] Le rapports permet aux clients de fournir un rapport sur la population totale d&#39;une personne  [!UICONTROL trait] ou  [!UICONTROL segment] par définition de l&#39;identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports sur les Audiences Manager.
+Les rapports d’identité d’audience permettent aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par personne/foyer de définitions d’identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports d’Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

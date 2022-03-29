@@ -1,7 +1,7 @@
 ---
-title: Configuration de l’expiration des caractéristiques avec le paramètre de durée de vie (TTL)
-description: L’un des paramètres lors de la création des caractéristiques est le paramètre "TTL" ou "Time to Live", qui correspond à une expiration de l’appartenance à la caractéristique si vous ne requalifiez pas au cours de la période spécifiée. Cette vidéo montre comment afficher et définir cette fonctionnalité.
-feature: 'Caractéristiques '
+title: Configuration de l’expiration des caractéristiques avec [!UICONTROL Time-to-Live] (TTL)
+description: 'Découvrez comment rechercher et définir [!UICONTROL Time to Live] (TTL) en Audience Manager. Utilisez ce paramètre lors de la création de caractéristiques, qui définit une expiration de l’appartenance à la caractéristique si un utilisateur ne se qualifie pas à nouveau au cours de la période spécifiée. '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Configuration de l’expiration des caractéristiques avec le paramètre de durée de vie (TTL)
+# Configuration de l’expiration des caractéristiques avec [!UICONTROL Time-to-Live] (TTL)
 
-L’un des paramètres lors de la création des caractéristiques est le paramètre &quot;TTL&quot; ou [!UICONTROL Time to Live], qui correspond à une expiration de l’appartenance à la caractéristique si vous ne vous qualifiez pas de nouveau pendant la période spécifiée. Cette vidéo montre comment afficher et définir cette fonctionnalité.
+L’un des paramètres de création de caractéristiques est le suivant : [!UICONTROL Time to Live] (TTL), qui correspond à une expiration de l’appartenance à la caractéristique si vous ne vous qualifiez pas de nouveau au cours de la période spécifiée. Cette vidéo montre comment afficher et définir cette fonctionnalité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

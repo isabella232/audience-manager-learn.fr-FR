@@ -1,7 +1,7 @@
 ---
-title: Présentation des nombres dans le graphique des caractéristiques
+title: Comprendre les nombres dans le graphique des caractéristiques
 description: Obtenez des conseils sur la compréhension des chiffres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
-feature: 'Caractéristiques '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6494
 role: User
 level: Beginner
 exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 2%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
-# Présentation des nombres dans le graphique des caractéristiques
+# Comprendre les nombres dans le graphique des caractéristiques
 
 Obtenez des conseils sur la compréhension des chiffres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
 

@@ -1,7 +1,7 @@
 ---
-title: Utilisation de libellés d’exportation de données pour contrôler le flux de données
-description: Les étiquettes d’exportation de données vous offrent un mécanisme en Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos exigences en matière de confidentialité. Découvrez comment et où définir les contrôles des exportations de données et les étiquettes d’exportation de données pour travailler en tandem à cette fin.
-feature: Contrôles des exportations de données
+title: Utiliser des étiquettes d’exportation de données pour contrôler le flux de données
+description: Découvrez les étiquettes d’exportation de données dans Audience Manager. Vous disposez ainsi d’un mécanisme en Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos besoins en matière de confidentialité. Découvrez comment et où définir les contrôles des exportations de données et les étiquettes d’exportation de données pour travailler en tandem à cette fin.
+feature: Data Export Controls
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6836
 role: User
 level: Beginner
 exl-id: 28f250dc-1baf-4286-9129-cdddf6d55227
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
-# Utilisation de [!UICONTROL Data Export Labels] pour contrôler le flux de données
+# Utilisation [!UICONTROL Data Export Labels] pour contrôler le flux de données
 
 [!UICONTROL Data Export Labels] vous donner un mécanisme en Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos besoins en matière de confidentialité. Découvrez comment et où définir [!UICONTROL Data Export Controls] et [!UICONTROL Data Export Labels], pour travailler en tandem à cette fin.
 

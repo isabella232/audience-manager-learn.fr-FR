@@ -11,15 +11,15 @@ kt: 6802
 role: User
 level: Experienced
 exl-id: 15a01564-fa14-4ab4-944d-af1c9041d788
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
 # Commercialisation des audiences détenues sur Marketplace
 
-Dans cette vidéo, vous apprendrez comment configurer vos données en tant que flux de données privé ou public sur l’Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième ou de troisième niveau.
+Dans cette vidéo, découvrez comment configurer vos données sous la forme d’un flux de données privé ou public sur l’Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième ou de troisième niveau.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

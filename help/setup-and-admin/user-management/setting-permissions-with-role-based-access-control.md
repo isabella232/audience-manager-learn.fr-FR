@@ -1,6 +1,6 @@
 ---
-title: Définition des autorisations avec contrôle d’accès en fonction du rôle
-description: Le contrôle d’accès en fonction du rôle de Adobe Audience Manager vous permet de gérer les autorisations au niveau du groupe, en contrôlant qui peut voir et utiliser des ressources, notamment les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
+title: Définition d’autorisations avec contrôle d’accès en fonction du rôle
+description: Découvrez le contrôle d’accès en fonction du rôle dans Adobe Audience Manager et comment gérer les autorisations au niveau du groupe. Découvrez comment contrôler qui peut voir et utiliser des ressources, y compris des caractéristiques, des segments, des destinations et des modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
 feature: Administration
 topics: null
 activity: setup
@@ -12,15 +12,15 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: decfe5fc-cec7-4f0a-875d-8a5f8d9c9ed6
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
-# Définition des autorisations avec [!DNL Role-Based Access Control]
+# Définition d’autorisations avec contrôle d’accès en fonction du rôle
 
-Le Adobe Audience Manager [!DNL Role-Based Access Control] vous permet de gérer les autorisations au niveau du groupe, en contrôlant qui peut voir et utiliser des ressources, notamment les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
+Le contrôle d’accès en fonction du rôle dans Adobe Audience Manager vous permet de gérer les autorisations au niveau du groupe, en contrôlant qui peut voir et utiliser des ressources, y compris les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

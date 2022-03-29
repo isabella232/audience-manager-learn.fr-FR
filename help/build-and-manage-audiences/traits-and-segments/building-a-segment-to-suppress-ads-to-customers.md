@@ -1,7 +1,7 @@
 ---
-title: Création d’un segment pour supprimer des publicités destinées aux clients
-description: Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
-feature: 'Segments '
+title: Créer un segment pour supprimer les publicités destinées aux clients
+description: Learn about options when you create a segment to exclude customers who have already converted to customer status. Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension et d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer des produits différents.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5804
 role: User
 level: Intermediate
 exl-id: e142b202-612e-4be1-88e4-4fb897238b86
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Création d’un segment pour supprimer des publicités destinées aux clients
+# Build a segment to suppress ads to customers
 
-Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
+Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. This video discusses options for creating segments to exclude those who have already converted to customer status.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

@@ -1,7 +1,7 @@
 ---
-title: Création d’un modèle analogue propriétaire dans AAM
+title: Création d’un modèle analogue propriétaire
 description: Dans cette vidéo, vous apprendrez à créer un modèle analogue propriétaire, de sorte que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
-feature: Modèles algorithmiques
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Création d’un [!UICONTROL First Party] analogue [!UICONTROL Model] dans AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Création d’un modèle analogue propriétaire en Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-Dans cette vidéo, vous apprendrez à créer un [!UICONTROL first party] look-alike [!UICONTROL model], de sorte que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
+Dans cette vidéo, vous apprendrez à créer un modèle analogue propriétaire, de sorte que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

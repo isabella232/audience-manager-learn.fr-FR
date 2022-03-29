@@ -1,7 +1,7 @@
 ---
-title: Utilisation de règles de fusion de profils pour la personnalisation dans un état authentifié
+title: Utilisation de stratégies de fusion de profils pour personnaliser un état authentifié
 description: Offrez à vos clients connectés une expérience personnalisée à l’aide de ces paramètres de stratégie de fusion de profils.
-feature: Fusion des profils
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5357
 role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Utilisation de [!UICONTROL Profile Merge Rules] pour la personnalisation dans un état authentifié
+# Utilisation [!UICONTROL Profile Merge Rules] pour personnaliser dans un état authentifié
 
-Offrez à vos clients connectés une expérience personnalisée à l’aide de ces paramètres de stratégie de fusion de profils.
+Donnez à vos clients connectés une expérience personnalisée en utilisant ces [!UICONTROL Profile Merge Rule] paramètres.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

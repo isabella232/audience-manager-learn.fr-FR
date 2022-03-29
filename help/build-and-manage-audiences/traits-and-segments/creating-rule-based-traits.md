@@ -1,7 +1,7 @@
 ---
-title: Création de caractéristiques basées sur des règles
+title: Création d’une caractéristique basée sur des règles
 description: Découvrez comment utiliser le créateur de caractéristiques dans l’interface utilisateur d’Audience Manager pour créer une caractéristique basée sur des règles, ce qui vous permet de capturer l’activité en temps réel dans les profils d’Audience Manager.
-feature: 'Caractéristiques '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5290
 role: User
 level: Beginner
 exl-id: 11f303c3-8ce1-4ab7-a621-5b42d475b234
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 1%
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
-# Création de caractéristiques basées sur des règles
+# Création d’une caractéristique basée sur des règles
 
-Découvrez comment utiliser la balise [!UICONTROL Trait Builder] de l’interface utilisateur d’Audience Manager pour créer une caractéristique basée sur des règles, ce qui vous permet de capturer l’activité en temps réel dans les profils d’Audience Manager.
+Découvrez comment utiliser le [!UICONTROL Trait Builder] dans l’interface utilisateur d’Audience Manager pour créer une caractéristique basée sur des règles, ce qui vous permet de capturer l’activité en temps réel dans les profils d’Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

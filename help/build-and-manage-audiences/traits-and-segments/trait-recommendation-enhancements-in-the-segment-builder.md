@@ -1,8 +1,7 @@
 ---
-title: Améliorations des recommandations de caractéristiques dans le créateur de segments
-description: Dans cette vidéo, vous découvrirez comment utiliser les recommandations de caractéristiques mises à jour dans le créateur de segments, qui sont des recommandations d’Audience Marketplace. Vous obtiendrez ainsi des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
+title: Améliorations des recommandations de caractéristiques dans la segmentation
+description: Dans cette vidéo, découvrez comment utiliser les recommandations de caractéristiques mises à jour dans Segments, qui sont des recommandations d’Audience Marketplace. Obtenez des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,16 +10,16 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] Améliorations de la fonction  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] améliorations de la segmentation
 
-Dans cette vidéo, vous verrez comment utiliser la [!DNL trait recommendations] mise à jour dans la [!DNL segment builder], qui sont des recommandations d’Audience Marketplace. Vous obtiendrez ainsi des informations supplémentaires sur les données [!DNL third party] qui peuvent étendre la portée de votre [!UICONTROL segments].
+Dans cette vidéo, vous apprendrez à utiliser les recommandations de caractéristiques mises à jour dans [!UICONTROL Segments], qui [!UICONTROL Audience Marketplace] recommandations. Vous obtiendrez ainsi des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

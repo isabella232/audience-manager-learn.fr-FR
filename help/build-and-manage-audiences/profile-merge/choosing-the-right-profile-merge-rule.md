@@ -1,7 +1,7 @@
 ---
 title: Choix de la règle de fusion de profils appropriée
 description: Dans cette vidéo, découvrez trois des cas d’utilisation les plus courants des règles de fusion de profils et comment elles peuvent vous aider dans vos efforts marketing.
-feature: Fusion des profils
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5833
 role: User
 level: Beginner
 exl-id: 94694845-2bf8-4b6c-98f6-267bfbdd5451
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Choisir le droit [!UICONTROL Profile Merge Rule]
+# Choisir la bonne [!UICONTROL Profile Merge Rule]
 
-Dans cette vidéo, découvrez trois des cas d’utilisation les plus courants pour [!UICONTROL Profile Merge Rules] et comment ils peuvent vous aider dans vos efforts de marketing.
+Dans cette vidéo, découvrez trois des cas d’utilisation les plus courants pour [!UICONTROL Profile Merge Rules]et comment ils peuvent vous aider dans vos efforts marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)
