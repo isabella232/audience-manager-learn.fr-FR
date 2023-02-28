@@ -55,7 +55,7 @@ ht-degree: 3%
 + Intégration des données hors ligne {#integrating-offline-data}
    + [Mise en forme et ingestion de données basées sur des fichiers](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Procédure d’ingestion de données basées sur un fichier](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Implémentation Mobile {#mobile-implementation}
++ Implémentation mobile {#mobile-implementation}
    + [Mise en oeuvre dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Mise en oeuvre dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Mise en oeuvre dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
