@@ -2,7 +2,7 @@
 title: Création d’une source de données pour les données Analytics
 description: Découvrez comment créer une source de données pour les données obtenues en direct à partir d’une solution d’analyse telle qu’Adobe Analytics. Effectuez cette opération avant la création de caractéristiques pour les données d’analyse.
 landing-page-description: Découvrez comment créer une source de données pour les données obtenues en direct à partir d’une solution d’analyse telle qu’Adobe Analytics. Effectuez cette opération avant la création de caractéristiques pour les données d’analyse.
-short-description: Learn how to create a Data Source for data coming in live from an analytics solution like Adobe Analytics. Do this prior to creating traits for the analytics data.
+short-description: Découvrez comment créer une source de données pour les données obtenues en direct à partir d’une solution d’analyse telle qu’Adobe Analytics. Effectuez cette opération avant la création de caractéristiques pour les données d’analyse.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: f3efc9be51080a95618ea05e6021ec6064b87598
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 60%
+source-wordcount: '144'
+ht-degree: 68%
 
 ---
 

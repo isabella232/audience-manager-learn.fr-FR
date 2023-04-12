@@ -2,7 +2,7 @@
 title: Présentation des termes et concepts de base dans Audience Manager
 description: Découvrez les termes et concepts de base pour commencer à utiliser Adobe Audience Manager, notamment les signaux, les caractéristiques et les segments avec cette vidéo de support.
 landing-page-description: Découvrez les termes et concepts de base pour commencer à utiliser Adobe Audience Manager, notamment les signaux, les caractéristiques et les segments avec cette vidéo de support.
-short-description: Learn basic terms and concepts to get started in Adobe Audience Manager – including signals, traits, segments, and more, with this support video.
+short-description: Découvrez les termes et concepts de base pour commencer à utiliser Adobe Audience Manager, notamment les signaux, les caractéristiques et les segments avec cette vidéo de support.
 feature: Overview
 topics: null
 activity: understand

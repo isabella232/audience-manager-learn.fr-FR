@@ -2,7 +2,7 @@
 title: Présentation de l’identité dans l’Audience Manager
 description: Découvrez comment Audience Manager gère l’identité, notamment les profils internes et la fusion de profils, ainsi que la synchronisation d’identifiants avec les partenaires.
 landing-page-description: Découvrez comment Audience Manager gère l’identité, notamment les profils internes et la fusion de profils, ainsi que la synchronisation d’identifiants avec les partenaires.
-short-description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
+short-description: Découvrez comment Audience Manager gère l’identité, notamment les profils internes et la fusion de profils, ainsi que la synchronisation d’identifiants avec les partenaires.
 feature: ID Syncs
 topics: null
 activity: understand
