@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 12%
 
 ---
 
@@ -54,42 +54,42 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="Image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles iOS Swift"" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="image miniature pour le tutoriel "Mise en oeuvre de Adobe Experience Cloud avec le SDK web"" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Mise en oeuvre de l’Experience Cloud dans les applications iOS mobiles</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Tutoriel sur lʼimplémentation dʼAdobe Experience Cloud à lʼaide du SDK web</strong>
     </a>
     </div>
     <p>
-    <em>Point de départ idéal pour les développeurs d’applications mobiles qui souhaitent apprendre à mettre en oeuvre les solutions Adobe Experience Cloud dans leurs applications iOS Swift</em>
+    <em>Découvrez comment mettre en oeuvre des applications Experience Cloud à l’aide du SDK Web de Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles pour Android"" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="Image miniature du tutoriel "Présentation des segments dans la plateforme de données clients en temps réel"" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Mise en oeuvre de l’Experience Cloud dans Mobile [!DNL Android] Applications</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Présentation des segments dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Point de départ idéal pour les développeurs d’applications mobiles qui souhaitent apprendre à mettre en oeuvre les solutions Adobe Experience Cloud dans leurs applications Android</em>
+    <em>Cette vidéo présente les différences de création de segments entre l’Audience Manager et la plateforme de données clients en temps réel.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="Image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles Objective-C"" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="image miniature du tutoriel "Configurer et créer un rapport sur les audiences prédictives en Audience Manager"" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mise en oeuvre de l’Experience Cloud dans les applications mobiles Objective-C</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Configuration et création de rapports sur les audiences prédictives dans Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Point de départ idéal pour les développeurs d’applications mobiles qui souhaitent apprendre à mettre en oeuvre les solutions Adobe Experience Cloud dans leurs applications Objective-C</em>
+    <em>Dans cette vidéo, nous allons passer en revue la configuration des audiences prédictives dans l’interface d’Audience Manager.</em>
     <p>
   </td>
 </tr>
