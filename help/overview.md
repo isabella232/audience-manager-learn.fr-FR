@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 9%
@@ -24,6 +24,7 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
 * Explorez le contenu par rubrique et sous-rubrique dans le **menu de navigation de gauche**
 * Utilisez le champ de **recherche** en haut de la page si vous savez ce que vous recherchez
 
+<div id="whats-new-section">
 ## Nouveautés
 
 * **[Présentation de [!UICONTROL Profile Merge Rules] (Vidéo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
 * **[Création et configuration de destinations basées sur les personnes](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Découvrez comment configurer une [!DNL People-Based Destination] dans l’interface utilisateur d’Audience Manager*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Sélections du personnel
 
@@ -44,11 +55,11 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications Swift Mobile iOS"" src="assets/thumb_swift.png" />
+      <img alt="Image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles iOS Swift"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implémentation de l’Experience Cloud dans les applications Mobile iOS</strong>
+    <strong>Mise en oeuvre de l’Experience Cloud dans les applications iOS mobiles</strong>
     </a>
     </div>
     <p>
@@ -57,7 +68,7 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications Mobile Android"" src="assets/thumb_android.png" />
+      <img alt="image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles pour Android"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
@@ -70,11 +81,11 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="Image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications Mobile Objective-C"" src="assets/thumb_objective_c.png" />
+      <img alt="Image miniature du tutoriel "Mise en oeuvre de l’Experience Cloud dans les applications mobiles Objective-C"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mise en oeuvre de l’Experience Cloud dans les applications Objective-C Mobile</strong>
+    <strong>Mise en oeuvre de l’Experience Cloud dans les applications mobiles Objective-C</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Bienvenue sur le site des tutoriels d’Audience Manager. Utilisation de ces tut
   </td>
 </tr>
 </table>
+</div>
